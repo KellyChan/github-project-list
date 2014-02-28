@@ -9,6 +9,14 @@ languages
 -  [Web](https://github.com/KellyChan/Web)
 -  [Javascript](https://github.com/KellyChan/Javascript)
 -  [PHP](https://github.com/KellyChan/PHP)
+-  [Java](https://github.com/KellyChan/Java)
+-  [E](https://github.com/KellyChan/E)
+-  [CPP](https://github.com/KellyChan/CPP)
+-  [VBA](https://github.com/KellyChan/VBA)
+-  [QPS](https://github.com/KellyChan/QPS)
+-  [SQL](https://github.com/KellyChan/SQL)
+-  [R](https://github.com/KellyChan/R)
+-  [SAS](https://github.com/KellyChan/SAS)
 
 ## 2. Blog
 - [artechresearch](https://github.com/KellyChan/artechresearch)

@@ -1,22 +1,39 @@
 Github Projects
 ======
 
+Table of Contents
+- 1. Study
+- 2. IDE
+- 3. Data
+- 4. Web
+
 ## 1. Study
 
-languages  
--  [Python](https://github.com/KellyChan/Python)
--  [Ruby](https://github.com/KellyChan/Ruby)
--  [Web](https://github.com/KellyChan/Web)
--  [Javascript](https://github.com/KellyChan/Javascript)
--  [PHP](https://github.com/KellyChan/PHP)
+Languages
 -  [Java](https://github.com/KellyChan/Java)
--  [E](https://github.com/KellyChan/E)
 -  [CPP](https://github.com/KellyChan/CPP)
--  [VBA](https://github.com/KellyChan/VBA)
--  [QPS](https://github.com/KellyChan/QPS)
--  [SQL](https://github.com/KellyChan/SQL)
+-  [Python](https://github.com/KellyChan/Python)
+
+Data
 -  [R](https://github.com/KellyChan/R)
 -  [SAS](https://github.com/KellyChan/SAS)
+-  [VBA](https://github.com/KellyChan/VBA)
+-  [SQL](https://github.com/KellyChan/SQL)
+-  [QPS](https://github.com/KellyChan/QPS)
+
+Web
+-  [Web](https://github.com/KellyChan/Web)
+-  [Ruby](https://github.com/KellyChan/Ruby)
+-  [PHP](https://github.com/KellyChan/PHP)
+-  [Javascript](https://github.com/KellyChan/Javascript)
+
+Hardware
+-  [E](https://github.com/KellyChan/E)
+
+## 2. IDE
+## 3. Data
+## 4. Web
+
 
 ## 2. Blog
 - [artechresearch](https://github.com/KellyChan/artechresearch)

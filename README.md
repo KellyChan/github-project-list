@@ -3,14 +3,26 @@ Github Projects
 
 Table of Contents
 - 1. IDE
-- 2. Study
-- 3. Data
-- 4. Web
+- 2. Data
+- 3. Web
+- 4. Study
 
 ## 1. IDE
 - [vim](https://github.com/KellyChan/vim)
 
-## 2. Study
+## 2. Data
+- [digitRecognizer](https://github.com/KellyChan/digitRecognizer)
+
+## 3. Web
+
+blog
+- [notebook](https://github.com/KellyChan/notebook)
+- [artechresearch](https://github.com/KellyChan/artechresearch)
+- [blog](https://github.com/KellyChan/blog)
+- [blogalpha](https://github.com/KellyChan/blogalpha)
+
+
+## 4. Study
 
 Languages
 -  [Java](https://github.com/KellyChan/Java)
@@ -32,17 +44,3 @@ Web
 
 Hardware
 -  [E](https://github.com/KellyChan/E)
-
-
-## 3. Data
-- [digitRecognizer](https://github.com/KellyChan/digitRecognizer)
-
-## 4. Web
-
-blog
-- [notebook](https://github.com/KellyChan/notebook)
-- [artechresearch](https://github.com/KellyChan/artechresearch)
-- [blog](https://github.com/KellyChan/blog)
-- [blogalpha](https://github.com/KellyChan/blogalpha)
-
-

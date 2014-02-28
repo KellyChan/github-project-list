@@ -3,7 +3,7 @@ Github Projects
 
 ### 1. Study
 
-languages
+languages  
 - [Python](https://github.com/KellyChan/Python)
 - 
 

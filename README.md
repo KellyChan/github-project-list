@@ -13,6 +13,7 @@ Table of Contents
 
 ## 2. Data
 - [digitRecognizer](https://github.com/KellyChan/digitRecognizer)
+- [census](https://github.com/KellyChan/census)
 
 ## 3. Web
 

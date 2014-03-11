@@ -12,8 +12,8 @@ Table of Contents
 - [emacs](https://github.com/KellyChan/emacs)
 
 ## 2. Data
-- [digitRecognizer](https://github.com/KellyChan/digitRecognizer)
 - [census](https://github.com/KellyChan/census)
+- [digitRecognizer](https://github.com/KellyChan/digitRecognizer)
 
 ## 3. Web
 

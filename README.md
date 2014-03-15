@@ -13,7 +13,7 @@ Table of Contents
 
 ## 2. Data
 - [census](https://github.com/KellyChan/census)
-- [digitRecognizer](https://github.com/KellyChan/digitRecognizer)
+- [digit-recognizer](https://github.com/KellyChan/digit-recognizer)
 - [game-predictor](https://github.com/KellyChan/game-predictor)
 
 ## 3. Web

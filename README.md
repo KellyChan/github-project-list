@@ -14,6 +14,7 @@ Table of Contents
 ## 2. Data
 - [census](https://github.com/KellyChan/census)
 - [digitRecognizer](https://github.com/KellyChan/digitRecognizer)
+- [game-predictor](https://github.com/KellyChan/game-predictor)
 
 ## 3. Web
 

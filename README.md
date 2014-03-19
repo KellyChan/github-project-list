@@ -12,6 +12,7 @@ Table of Contents
 - [emacs](https://github.com/KellyChan/emacs)
 
 ## 2. Data
+- [modeling](https://github.com/KellyChan/modeling)
 - [census](https://github.com/KellyChan/census)
 - [digit-recognizer](https://github.com/KellyChan/digit-recognizer)
 - [game-predictor](https://github.com/KellyChan/game-predictor)

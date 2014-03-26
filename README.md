@@ -14,6 +14,7 @@ Table of Contents
 ## 2. Data
 generic  
 - [modeling](https://github.com/KellyChan/modeling)
+- [classifier](https://github.com/KellyChan/classifier)
 
 projects  
 - [census](https://github.com/KellyChan/census)

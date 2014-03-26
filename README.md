@@ -19,6 +19,7 @@ projects
 - [census](https://github.com/KellyChan/census)
 - [digit-recognizer](https://github.com/KellyChan/digit-recognizer)
 - [game-predictor](https://github.com/KellyChan/game-predictor)
+- [titanic-survived-prediction](https://github.com/KellyChan/titanic-survived-prediction)
 
 ## 3. Web
 

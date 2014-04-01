@@ -22,9 +22,9 @@ projects
     - [manufacturing](https://github.com/KellyChan/manufacturing)
 - Classifications
     - [digit-recognizer](https://github.com/KellyChan/digit-recognizer)
-    - [titanic-survivors-prediction](https://github.com/KellyChan/titanic-survivors-prediction)
 - Predictions
     - [game-predictor](https://github.com/KellyChan/game-predictor)
+    - [titanic-survivors-prediction](https://github.com/KellyChan/titanic-survivors-prediction)
 - Others
     - [census](https://github.com/KellyChan/census)
 

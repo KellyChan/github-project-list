@@ -21,6 +21,7 @@ projects
 - [digit-recognizer](https://github.com/KellyChan/digit-recognizer)
 - [game-predictor](https://github.com/KellyChan/game-predictor)
 - [titanic-survivors-prediction](https://github.com/KellyChan/titanic-survivors-prediction)
+- [manufacturing](https://github.com/KellyChan/manufacturing)
 
 ## 3. Web
 

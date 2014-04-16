@@ -20,6 +20,8 @@ projects
 
 - Time Series
     - [manufacturing](https://github.com/KellyChan/manufacturing)
+- Forecasting
+    - [sales-prediction](https://github.com/KellyChan/sales-prediction)
 - Classifications
     - [digit-recognizer](https://github.com/KellyChan/digit-recognizer)
 - Predictions

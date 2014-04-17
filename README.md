@@ -26,6 +26,8 @@ projects
 - Predictions
     - [game-predictor](https://github.com/KellyChan/game-predictor)
     - [titanic-survivors-prediction](https://github.com/KellyChan/titanic-survivors-prediction)
+- Topics
+    - [social-network-analysis](https://github.com/KellyChan/social-network-analysis)
 - Others
     - [random-prediction](https://github.com/KellyChan/random-prediction)
     - [census](https://github.com/KellyChan/census)

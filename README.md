@@ -32,8 +32,9 @@ projects
     - [random-prediction](https://github.com/KellyChan/random-prediction)
     - [census](https://github.com/KellyChan/census)
 
-database
+sample codes
 - [Dell-DVD-Store](https://github.com/KellyChan/Dell-DVD-Store)
+- [data-science-sample-code](https://github.com/KellyChan/data-science-sample-code)
 
 ## 3. Web
 

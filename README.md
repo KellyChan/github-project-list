@@ -40,7 +40,6 @@ sample codes
 
 blog
 - [notebook](https://github.com/KellyChan/notebook)
-- [tech](https://github.com/KellyChan/tech)
 - [artechresearch](https://github.com/KellyChan/artechresearch)
 - [blog](https://github.com/KellyChan/blog)
 - [blogalpha](https://github.com/KellyChan/blogalpha)

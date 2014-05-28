@@ -44,6 +44,8 @@ blog
 - [blog](https://github.com/KellyChan/blog)
 - [blogalpha](https://github.com/KellyChan/blogalpha)
 
+data visualization
+- [geoart](https://github.com/KellyChan/geoart)
 
 ## 4. Study
 

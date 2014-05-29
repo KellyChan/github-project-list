@@ -48,7 +48,7 @@ blog
 
 data visualization
 - [geoinsights](https://github.com/KellyChan/geoinsights)
-- [d3-gallery](https://github.com/KellyChan/d3-gallery)
+- [d3gallery](https://github.com/KellyChan/d3gallery)
 
 ## 4. Study
 

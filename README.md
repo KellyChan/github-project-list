@@ -31,8 +31,6 @@ projects
     - [digit-recognizer](https://github.com/KellyChan/digit-recognizer)
 - Predictions
     - [game-predictor](https://github.com/KellyChan/game-predictor)
-- Topics
-    - [social-network-analysis](https://github.com/KellyChan/social-network-analysis)
 - Others
     - [census](https://github.com/KellyChan/census)
 

@@ -16,6 +16,7 @@ Table of Contents
 Kaggle
 - [kaggle-data-science-london-scikitlearn](https://github.com/KellyChan/kaggle-data-science-london-scikitlearn)
 - [kaggle-forest-cover-type-prediction](https://github.com/KellyChan/kaggle-forest-cover-type-prediction)
+- [kaggle-titanic-machine-learning-from-disaster](https://github.com/KellyChan/kaggle-titanic-machine-learning-from-disaster)
 
 generic  
 - [modeling](https://github.com/KellyChan/modeling)

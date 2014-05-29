@@ -14,7 +14,7 @@ Table of Contents
 ## 2. Data
 
 Kaggle
-- [kaggle-sklearn-london](https://github.com/KellyChan/kaggle-sklearn-london)
+- [kaggle-data-science-london-scikitlearn](https://github.com/KellyChan/kaggle-data-science-london-scikitlearn)
 - [kaggle-forest-cover-type-prediction](https://github.com/KellyChan/kaggle-forest-cover-type-prediction)
 
 generic  

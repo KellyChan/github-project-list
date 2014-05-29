@@ -31,7 +31,6 @@ projects
     - [digit-recognizer](https://github.com/KellyChan/digit-recognizer)
 - Predictions
     - [game-predictor](https://github.com/KellyChan/game-predictor)
-    - [titanic-survivors-prediction](https://github.com/KellyChan/titanic-survivors-prediction)
 - Topics
     - [social-network-analysis](https://github.com/KellyChan/social-network-analysis)
 - Others

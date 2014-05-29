@@ -12,9 +12,13 @@ Table of Contents
 - [emacs](https://github.com/KellyChan/emacs)
 
 ## 2. Data
+
+Kaggle
+- [kaggle-sklearn-london](https://github.com/KellyChan/kaggle-sklearn-london)
+
 generic  
 - [modeling](https://github.com/KellyChan/modeling)
-- [classifier](https://github.com/KellyChan/classifier)
+
 
 projects  
 

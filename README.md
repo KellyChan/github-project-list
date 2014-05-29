@@ -15,6 +15,7 @@ Table of Contents
 
 Kaggle
 - [kaggle-sklearn-london](https://github.com/KellyChan/kaggle-sklearn-london)
+- [kaggle-forest-cover-type-prediction](https://github.com/KellyChan/kaggle-forest-cover-type-prediction)
 
 generic  
 - [modeling](https://github.com/KellyChan/modeling)

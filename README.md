@@ -47,7 +47,7 @@ blog
 - [blogalpha](https://github.com/KellyChan/blogalpha)
 
 data visualization
-- [cartography](https://github.com/KellyChan/cartography)
+- [geoinsights](https://github.com/KellyChan/geoinsights)
 
 ## 4. Study
 

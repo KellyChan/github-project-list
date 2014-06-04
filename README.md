@@ -29,8 +29,6 @@ generic
 
 projects  
 
-- Time Series
-    - [manufacturing](https://github.com/KellyChan/manufacturing)
 - Predictions
     - [game-predictor](https://github.com/KellyChan/game-predictor)
 - Others

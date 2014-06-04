@@ -14,6 +14,7 @@ Table of Contents
 ## 2. Data
 
 Kaggle
+- [kaggle-digit-recognizer](https://github.com/KellyChan/kaggle-digit-recognizer)
 - [kaggle-bike-sharing-demand](https://github.com/KellyChan/kaggle-bike-sharing-demand)
 - [kaggle-forest-cover-type-prediction](https://github.com/KellyChan/kaggle-forest-cover-type-prediction)
 - [kaggle-data-science-london-scikitlearn](https://github.com/KellyChan/kaggle-data-science-london-scikitlearn)
@@ -29,8 +30,6 @@ projects
 - Time Series
     - [manufacturing](https://github.com/KellyChan/manufacturing)
     - [sales-prediction](https://github.com/KellyChan/sales-prediction)
-- Classifications
-    - [digit-recognizer](https://github.com/KellyChan/digit-recognizer)
 - Predictions
     - [game-predictor](https://github.com/KellyChan/game-predictor)
 - Others

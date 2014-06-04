@@ -14,6 +14,7 @@ Table of Contents
 ## 2. Data
 
 Kaggle
+- [kaggle-walmart-recruiting-store-sales-forecasting](https://github.com/KellyChan/kaggle-walmart-recruiting-store-sales-forecasting)
 - [kaggle-digit-recognizer](https://github.com/KellyChan/kaggle-digit-recognizer)
 - [kaggle-bike-sharing-demand](https://github.com/KellyChan/kaggle-bike-sharing-demand)
 - [kaggle-forest-cover-type-prediction](https://github.com/KellyChan/kaggle-forest-cover-type-prediction)

@@ -30,7 +30,6 @@ projects
 
 - Time Series
     - [manufacturing](https://github.com/KellyChan/manufacturing)
-    - [sales-prediction](https://github.com/KellyChan/sales-prediction)
 - Predictions
     - [game-predictor](https://github.com/KellyChan/game-predictor)
 - Others

@@ -15,11 +15,11 @@ Table of Contents
 
 Kaggle
 - [kaggle-digit-recognizer](https://github.com/KellyChan/kaggle-digit-recognizer): classification
+- [kaggle-data-science-london-scikitlearn](https://github.com/KellyChan/kaggle-data-science-london-scikitlearn): classification
 - [kaggle-asus-malfunctional-components-prediction](https://github.com/KellyChan/kaggle-asus-malfunctional-components-prediction)
 - [kaggle-walmart-recruiting-store-sales-forecasting](https://github.com/KellyChan/kaggle-walmart-recruiting-store-sales-forecasting): time series, features/holiday+price, tree
 - [kaggle-bike-sharing-demand](https://github.com/KellyChan/kaggle-bike-sharing-demand): time series, features/weather, tree
 - [kaggle-forest-cover-type-prediction](https://github.com/KellyChan/kaggle-forest-cover-type-prediction): features/geological, tree
-- [kaggle-data-science-london-scikitlearn](https://github.com/KellyChan/kaggle-data-science-london-scikitlearn)
 - [kaggle-titanic-machine-learning-from-disaster](https://github.com/KellyChan/kaggle-titanic-machine-learning-from-disaster)
 
 

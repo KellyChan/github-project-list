@@ -14,6 +14,7 @@ Table of Contents
 ## 2. Data
 
 Kaggle
+- [kaggle-burn-cpu-burn](https://github.com/KellyChan/kaggle-burn-cpu-burn): classification/prediction
 - [kaggle-digit-recognizer](https://github.com/KellyChan/kaggle-digit-recognizer): classification
 - [kaggle-data-science-london-scikitlearn](https://github.com/KellyChan/kaggle-data-science-london-scikitlearn): classification
 - [kaggle-asus-malfunctional-components-prediction](https://github.com/KellyChan/kaggle-asus-malfunctional-components-prediction)

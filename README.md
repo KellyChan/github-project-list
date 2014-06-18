@@ -44,6 +44,9 @@ sample codes
 
 - [test](https://github.com/KellyChan/test)
 
+libraries
+- [web-libraries](https://github.com/KellyChan/web-libraries)
+
 blog
 - [notebook](https://github.com/KellyChan/notebook)
 - [artechresearch](https://github.com/KellyChan/artechresearch)

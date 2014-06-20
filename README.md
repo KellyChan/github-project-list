@@ -25,6 +25,9 @@ Kaggle
 - [kaggle-titanic-machine-learning-from-disaster](https://github.com/KellyChan/kaggle-titanic-machine-learning-from-disaster)
 
 
+Courses
+- [stanford-nlp](https://github.com/KellyChan/stanford-nlp)
+
 generic  
 - [modeling](https://github.com/KellyChan/modeling)
 

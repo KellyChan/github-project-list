@@ -13,6 +13,9 @@ Table of Contents
 
 ## 2. Data
 
+Projects
+- [forex](https://github.com/KellyChan/forex)
+
 Kaggle
 - [kaggle-facial-keypoints-detection](https://github.com/KellyChan/kaggle-facial-keypoints-detection)
 - [kaggle-burn-cpu-burn](https://github.com/KellyChan/kaggle-burn-cpu-burn): classification/prediction

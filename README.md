@@ -63,7 +63,7 @@ blog
 data visualization
 - [geoinsights](https://github.com/KellyChan/geoinsights)
 - [d3gallery](https://github.com/KellyChan/d3gallery)
-
+- [mood-index](https://github.com/KellyChan/mood-index)
 
 app.js
 - [coding-music](https://github.com/KellyChan/coding-music)

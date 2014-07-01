@@ -64,6 +64,7 @@ data visualization
 - [geoinsights](https://github.com/KellyChan/geoinsights)
 - [d3codes](https://github.com/KellyChan/d3codes)
 - [mood-index](https://github.com/KellyChan/mood-index)
+- [forexviz](https://github.com/KellyChan/forexviz)
 
 app.js
 - [coding-music](https://github.com/KellyChan/coding-music)

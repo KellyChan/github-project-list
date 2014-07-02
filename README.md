@@ -62,7 +62,7 @@ blog
 
 
 data visualization
-- [viz](https://github.com/KellyChan/viz)
+- [viz](https://github.com/KellyChan/viz): the Visualization Tool
 - [geoinsights](https://github.com/KellyChan/geoinsights)
 - [d3codes](https://github.com/KellyChan/d3codes)
 - [mood-index](https://github.com/KellyChan/mood-index)

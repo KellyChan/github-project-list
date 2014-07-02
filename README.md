@@ -60,7 +60,9 @@ blog
 - [blog](https://github.com/KellyChan/blog)
 - [blogalpha](https://github.com/KellyChan/blogalpha)
 
+
 data visualization
+- [viz](https://github.com/KellyChan/viz)
 - [geoinsights](https://github.com/KellyChan/geoinsights)
 - [d3codes](https://github.com/KellyChan/d3codes)
 - [mood-index](https://github.com/KellyChan/mood-index)

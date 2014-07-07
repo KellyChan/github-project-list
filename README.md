@@ -61,6 +61,9 @@ blog
 - [blogalpha](https://github.com/KellyChan/blogalpha)
 
 
+data
+- [machinelearning](https://github.com/KellyChan/machinelearning)
+
 data visualization
 - [viz](https://github.com/KellyChan/viz): the visualization tool
 - [geoinsights](https://github.com/KellyChan/geoinsights)

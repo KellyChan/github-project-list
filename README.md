@@ -62,7 +62,7 @@ blog
 
 
 data
-- [machinelearning](https://github.com/KellyChan/machinelearning)
+- [ml](https://github.com/KellyChan/ml)
 
 data visualization
 - [viz](https://github.com/KellyChan/viz): the visualization tool

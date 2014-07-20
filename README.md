@@ -78,7 +78,11 @@ data visualization
 app.js
 - [coding-music](https://github.com/KellyChan/coding-music)
 
-## 4. Study
+## 4. Hobbies
+
+- [piano-keybroad](https://github.com/KellyChan/piano-keybroad)
+
+## 5. Study
 
 Languages
 -  [Java](https://github.com/KellyChan/Java)

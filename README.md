@@ -80,7 +80,7 @@ app.js
 
 ## 4. Hobbies
 
-- [piano-keybroad](https://github.com/KellyChan/piano-keybroad)
+- [piano-keyboard](https://github.com/KellyChan/piano-keyboard)
 
 ## 5. Study
 

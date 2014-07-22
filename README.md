@@ -81,6 +81,7 @@ app.js
 ## 4. Hobbies
 
 - [piano-keyboard](https://github.com/KellyChan/piano-keyboard)
+- [bunny](https://github.com/KellyChan/bunny)
 
 ## 5. Study
 

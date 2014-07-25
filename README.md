@@ -78,10 +78,13 @@ data visualization
 app.js
 - [coding-music](https://github.com/KellyChan/coding-music)
 
-## 4. Hobbies
+## 4. Games
+
+pygame
 
 - [piano-keyboard](https://github.com/KellyChan/piano-keyboard)
 - [bunny](https://github.com/KellyChan/bunny)
+- [painter](https://github.com/KellyChan/painter)
 
 ## 5. Study
 

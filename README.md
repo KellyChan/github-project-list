@@ -85,6 +85,7 @@ pygame
 - [piano-keyboard](https://github.com/KellyChan/piano-keyboard)
 - [bunny](https://github.com/KellyChan/bunny)
 - [painter](https://github.com/KellyChan/painter)
+- [tetris](https://github.com/KellyChan/tetris)
 
 ## 5. Study
 

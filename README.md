@@ -87,6 +87,7 @@ pygame
 - [bunny](https://github.com/KellyChan/bunny)
 - [painter](https://github.com/KellyChan/painter)
 - [tetris](https://github.com/KellyChan/tetris)
+- [fbird](https://github.com/KellyChan/fbird)
 
 ## 5. Study
 

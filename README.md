@@ -61,7 +61,7 @@ libraries
 blog
 - [webkit](https://github.com/KellyChan/webkit)
 - [notebook](https://github.com/KellyChan/notebook)
-- [artechresearch](https://github.com/KellyChan/artechresearch)
+- [arttechresearch](https://github.com/KellyChan/arttechresearch)
 - [blog](https://github.com/KellyChan/blog)
 - [blogalpha](https://github.com/KellyChan/blogalpha)
 

@@ -58,12 +58,22 @@ Toolkits
 libraries
 - [web-libraries](https://github.com/KellyChan/web-libraries)
 
+arttechresearch
+- main
+    - [arttechresearch](https://github.com/KellyChan/arttechresearch)
+- art
+    - [whitestones](https://github.com/KellyChan/whitestones)
+- tech
+    - [webkit](https://github.com/KellyChan/webkit)
+    - [d3codes](https://github.com/KellyChan/d3codes)
+- research
+    - [forexviz](https://github.com/KellyChan/forexviz)
+- default
+    - [blog](https://github.com/KellyChan/blog)
+
+
 blog
-- [whitestones](https://github.com/KellyChan/whitestones)
-- [webkit](https://github.com/KellyChan/webkit)
 - [notebook](https://github.com/KellyChan/notebook)
-- [arttechresearch](https://github.com/KellyChan/arttechresearch)
-- [blog](https://github.com/KellyChan/blog)
 - [blogalpha](https://github.com/KellyChan/blogalpha)
 
 
@@ -73,9 +83,7 @@ data
 data visualization
 - [viz](https://github.com/KellyChan/viz): the visualization tool
 - [geoinsights](https://github.com/KellyChan/geoinsights)
-- [d3codes](https://github.com/KellyChan/d3codes)
 - [mood-index](https://github.com/KellyChan/mood-index)
-- [forexviz](https://github.com/KellyChan/forexviz)
 
 app.js
 - [coding-music](https://github.com/KellyChan/coding-music)

@@ -59,6 +59,7 @@ libraries
 - [web-libraries](https://github.com/KellyChan/web-libraries)
 
 blog
+- [whitestones](https://github.com/KellyChan/whitestones)
 - [webkit](https://github.com/KellyChan/webkit)
 - [notebook](https://github.com/KellyChan/notebook)
 - [arttechresearch](https://github.com/KellyChan/arttechresearch)

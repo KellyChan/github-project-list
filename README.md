@@ -62,7 +62,7 @@ arttechresearch
 - main
     - [arttechresearch](https://github.com/KellyChan/arttechresearch)
 - art
-    - [whitestones](https://github.com/KellyChan/whitestones)
+    - [pearls](https://github.com/KellyChan/pearls)
 - tech
     - [webkit](https://github.com/KellyChan/webkit)
     - [d3codes](https://github.com/KellyChan/d3codes)

@@ -18,17 +18,20 @@ Projects
 
 Kaggle
 - [kaggle](https://github.com/KellyChan/kaggle): toolkit - classifiers, predictors
-- [kaggle-lmg-fire-peril-loss-cost](https://github.com/KellyChan/kaggle-lmg-fire-peril-loss-cost)
-- [kaggle-first-steps-with-julia](https://github.com/KellyChan/kaggle-first-steps-with-julia)
-- [kaggle-facial-keypoints-detection](https://github.com/KellyChan/kaggle-facial-keypoints-detection)
-- [kaggle-burn-cpu-burn](https://github.com/KellyChan/kaggle-burn-cpu-burn): classification/prediction
-- [kaggle-digit-recognizer](https://github.com/KellyChan/kaggle-digit-recognizer): classification
-- [kaggle-data-science-london-scikitlearn](https://github.com/KellyChan/kaggle-data-science-london-scikitlearn): classification
-- [kaggle-asus-malfunctional-components-prediction](https://github.com/KellyChan/kaggle-asus-malfunctional-components-prediction)
-- [kaggle-walmart-recruiting-store-sales-forecasting](https://github.com/KellyChan/kaggle-walmart-recruiting-store-sales-forecasting): time series, features/holiday+price, tree
-- [kaggle-bike-sharing-demand](https://github.com/KellyChan/kaggle-bike-sharing-demand): time series, features/weather, tree
-- [kaggle-forest-cover-type-prediction](https://github.com/KellyChan/kaggle-forest-cover-type-prediction): features/geological, tree
-- [kaggle-titanic-machine-learning-from-disaster](https://github.com/KellyChan/kaggle-titanic-machine-learning-from-disaster)
+- classification
+    - [kaggle-facial-keypoints-detection](https://github.com/KellyChan/kaggle-facial-keypoints-detection)
+    - [kaggle-digit-recognizer](https://github.com/KellyChan/kaggle-digit-recognizer): classification
+    - [kaggle-data-science-london-scikitlearn](https://github.com/KellyChan/kaggle-data-science-london-scikitlearn): classification
+    - [kaggle-titanic-machine-learning-from-disaster](https://github.com/KellyChan/kaggle-titanic-machine-learning-from-disaster)
+- prediction
+    - [kaggle-lmg-fire-peril-loss-cost](https://github.com/KellyChan/kaggle-lmg-fire-peril-loss-cost)
+    - [kaggle-first-steps-with-julia](https://github.com/KellyChan/kaggle-first-steps-with-julia)
+    - [kaggle-burn-cpu-burn](https://github.com/KellyChan/kaggle-burn-cpu-burn): classification/prediction
+    - [kaggle-asus-malfunctional-components-prediction](https://github.com/KellyChan/kaggle-asus-malfunctional-components-prediction)
+    - [kaggle-walmart-recruiting-store-sales-forecasting](https://github.com/KellyChan/kaggle-walmart-recruiting-store-sales-forecasting): time series, features/holiday+price, tree
+    - [kaggle-bike-sharing-demand](https://github.com/KellyChan/kaggle-bike-sharing-demand): time series, features/weather, tree
+    - [kaggle-forest-cover-type-prediction](https://github.com/KellyChan/kaggle-forest-cover-type-prediction): features/geological, tree
+
 
 
 Courses

@@ -18,6 +18,7 @@ Projects
 
 Kaggle
 - [kaggle](https://github.com/KellyChan/kaggle): toolkit - classifiers, predictors
+- [kaggle-first-steps-with-julia](https://github.com/KellyChan/kaggle-first-steps-with-julia)
 - [kaggle-facial-keypoints-detection](https://github.com/KellyChan/kaggle-facial-keypoints-detection)
 - [kaggle-burn-cpu-burn](https://github.com/KellyChan/kaggle-burn-cpu-burn): classification/prediction
 - [kaggle-digit-recognizer](https://github.com/KellyChan/kaggle-digit-recognizer): classification

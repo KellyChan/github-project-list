@@ -112,7 +112,7 @@ APIs
 
 - [cryptography](https://github.com/KellyChan/cryptography)
 
-## 6. Study
+## 7. Study
 
 Languages
 -  [Java](https://github.com/KellyChan/Java)

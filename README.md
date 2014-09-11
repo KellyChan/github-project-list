@@ -48,13 +48,17 @@ projects
 - Others
     - [census](https://github.com/KellyChan/census)
 
-sample codes
-- [Dell-DVD-Store](https://github.com/KellyChan/Dell-DVD-Store)
+Data Processing
 - [data-science-sample-code](https://github.com/KellyChan/data-science-sample-code)
 
-Toolkits
+Web Scrapers
 - [crawler](https://github.com/KellyChan/crawler)
 - [crawler-yelp](https://github.com/KellyChan/crawler-yelp)
+- [scraper-lowes](https://github.com/KellyChan/scraper-lowes)
+
+SQL
+- [Dell-DVD-Store](https://github.com/KellyChan/Dell-DVD-Store)
+
 
 ## 3. Web
 

@@ -27,10 +27,10 @@ projects
     - [game-predictor](https://github.com/KellyChan/game-predictor)
 
 
+#### Data Modeling / Machine Learning
+
 NLP
 - [stanford-nlp](https://github.com/KellyChan/stanford-nlp)
-
-#### Data Modeling / Machine Learning
 
 Kaggle
 - [kaggle](https://github.com/KellyChan/kaggle): toolkit - classifiers, predictors

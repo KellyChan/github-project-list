@@ -64,35 +64,47 @@ Kaggle
 
 - [test](https://github.com/KellyChan/test)
 
-libraries
+#### libraries
 - [web-libraries](https://github.com/KellyChan/web-libraries)
 
-arttechresearch
-- main
-    - [arttechresearch](https://github.com/KellyChan/arttechresearch)
-- art
-    - [pearls](https://github.com/KellyChan/pearls)
-- tech
-    - [webkit](https://github.com/KellyChan/webkit)
-    - [d3codes](https://github.com/KellyChan/d3codes)
-- research
-    - [forexviz](https://github.com/KellyChan/forexviz)
-- default
-    - [blog](https://github.com/KellyChan/blog)
+#### Django
+- [polls](https://github.com/KellyChan/polls)
 
+#### Jekyll
 
 blog
 - [notebook](https://github.com/KellyChan/notebook)
 - [blogalpha](https://github.com/KellyChan/blogalpha)
 
+#### ArtTechResearch
+
+main
+- [arttechresearch](https://github.com/KellyChan/arttechresearch)
+
+art
+- [pearls](https://github.com/KellyChan/pearls)
+
+tech 
+- [webkit](https://github.com/KellyChan/webkit)
+- [d3codes](https://github.com/KellyChan/d3codes)
+
+research
+- [forexviz](https://github.com/KellyChan/forexviz)
+
+default
+- [blog](https://github.com/KellyChan/blog)
+
+
+#### Javascript
 
 data
 - [ml](https://github.com/KellyChan/ml)
 
-data visualization
+D3
 - [viz](https://github.com/KellyChan/viz): the visualization tool
 - [geoinsights](https://github.com/KellyChan/geoinsights)
 - [mood-index](https://github.com/KellyChan/mood-index)
+
 
 app.js
 - [coding-music](https://github.com/KellyChan/coding-music)

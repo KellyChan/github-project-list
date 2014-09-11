@@ -13,16 +13,16 @@ Table of Contents
 
 ## 2. Data
 
-Projects
+
+#### Tools
+
 - [forex](https://github.com/KellyChan/forex)
 
 
+#### Data Modeling / Machine Learning
+
 generic  
 - [modeling](https://github.com/KellyChan/modeling)
-
-
-
-#### Data Modeling / Machine Learning
 
 NLP
 - [stanford-nlp](https://github.com/KellyChan/stanford-nlp)

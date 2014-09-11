@@ -21,11 +21,6 @@ generic
 - [modeling](https://github.com/KellyChan/modeling)
 
 
-projects  
-
-- Predictions
-    - [game-predictor](https://github.com/KellyChan/game-predictor)
-
 
 #### Data Modeling / Machine Learning
 
@@ -47,6 +42,7 @@ Kaggle
     - [kaggle-walmart-recruiting-store-sales-forecasting](https://github.com/KellyChan/kaggle-walmart-recruiting-store-sales-forecasting): time series, features/holiday+price, tree
     - [kaggle-bike-sharing-demand](https://github.com/KellyChan/kaggle-bike-sharing-demand): time series, features/weather, tree
     - [kaggle-forest-cover-type-prediction](https://github.com/KellyChan/kaggle-forest-cover-type-prediction): features/geological, tree
+    - [kaggle-march-machine-learning-mania](https://github.com/KellyChan/kaggle-march-machine-learning-mania)
 
 
 #### Data Analysis

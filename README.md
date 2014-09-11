@@ -16,23 +16,6 @@ Table of Contents
 Projects
 - [forex](https://github.com/KellyChan/forex)
 
-Kaggle
-- [kaggle](https://github.com/KellyChan/kaggle): toolkit - classifiers, predictors
-- classification
-    - [kaggle-facial-keypoints-detection](https://github.com/KellyChan/kaggle-facial-keypoints-detection)
-    - [kaggle-digit-recognizer](https://github.com/KellyChan/kaggle-digit-recognizer): classification
-    - [kaggle-data-science-london-scikitlearn](https://github.com/KellyChan/kaggle-data-science-london-scikitlearn): classification
-    - [kaggle-titanic-machine-learning-from-disaster](https://github.com/KellyChan/kaggle-titanic-machine-learning-from-disaster)
-- prediction
-    - [kaggle-lmg-fire-peril-loss-cost](https://github.com/KellyChan/kaggle-lmg-fire-peril-loss-cost)
-    - [kaggle-first-steps-with-julia](https://github.com/KellyChan/kaggle-first-steps-with-julia)
-    - [kaggle-burn-cpu-burn](https://github.com/KellyChan/kaggle-burn-cpu-burn): classification/prediction
-    - [kaggle-asus-malfunctional-components-prediction](https://github.com/KellyChan/kaggle-asus-malfunctional-components-prediction)
-    - [kaggle-walmart-recruiting-store-sales-forecasting](https://github.com/KellyChan/kaggle-walmart-recruiting-store-sales-forecasting): time series, features/holiday+price, tree
-    - [kaggle-bike-sharing-demand](https://github.com/KellyChan/kaggle-bike-sharing-demand): time series, features/weather, tree
-    - [kaggle-forest-cover-type-prediction](https://github.com/KellyChan/kaggle-forest-cover-type-prediction): features/geological, tree
-
-
 
 generic  
 - [modeling](https://github.com/KellyChan/modeling)
@@ -47,7 +30,7 @@ projects
 NLP
 - [stanford-nlp](https://github.com/KellyChan/stanford-nlp)
 
-### Data Modeling / Machine Learning
+#### Data Modeling / Machine Learning
 
 Kaggle
 - [kaggle](https://github.com/KellyChan/kaggle): toolkit - classifiers, predictors
@@ -66,18 +49,18 @@ Kaggle
     - [kaggle-forest-cover-type-prediction](https://github.com/KellyChan/kaggle-forest-cover-type-prediction): features/geological, tree
 
 
-### Data Analysis
+#### Data Analysis
 - [census](https://github.com/KellyChan/census)
 
-### Data Processing/Wrangling
+#### Data Processing/Wrangling
 - [data-science-sample-code](https://github.com/KellyChan/data-science-sample-code)
 
-### Web Crawlers/Scrapers
+#### Web Crawlers/Scrapers
 - [crawler](https://github.com/KellyChan/crawler)
 - [crawler-yelp](https://github.com/KellyChan/crawler-yelp)
 - [scraper-lowes](https://github.com/KellyChan/scraper-lowes)
 
-### SQL
+#### SQL
 - [Dell-DVD-Store](https://github.com/KellyChan/Dell-DVD-Store)
 
 

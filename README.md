@@ -70,11 +70,16 @@ Kaggle
 #### Django
 - [polls](https://github.com/KellyChan/polls)
 
-#### Jekyll
+#### Ruby/Jekyll
 
 blog
 - [notebook](https://github.com/KellyChan/notebook)
 - [blogalpha](https://github.com/KellyChan/blogalpha)
+
+#### Python/Django
+
+- [django-blog](https://github.com/KellyChan/django-blog)
+
 
 #### ArtTechResearch
 

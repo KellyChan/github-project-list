@@ -67,8 +67,6 @@ Kaggle
 #### libraries
 - [web-libraries](https://github.com/KellyChan/web-libraries)
 
-#### Django
-- [polls](https://github.com/KellyChan/polls)
 
 #### Ruby/Jekyll
 
@@ -78,6 +76,7 @@ blog
 
 #### Python/Django
 
+- [polls](https://github.com/KellyChan/polls)
 - [django-blog](https://github.com/KellyChan/django-blog)
 
 

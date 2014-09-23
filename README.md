@@ -76,6 +76,7 @@ blog
 
 #### Python/Django
 
+- [depot](https://github.com/KellyChan/depot)
 - [todo](https://github.com/KellyChan/todo)
 - [polls](https://github.com/KellyChan/polls)
 - [django-blog](https://github.com/KellyChan/django-blog)

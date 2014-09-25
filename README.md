@@ -76,12 +76,18 @@ blog
 
 #### Python/Django
 
-- [dailydream](https://github.com/KellyChan/dailydream)
+MyLife
+
 - [dailylife](https://github.com/KellyChan/dailylife)
+- [events](https://github.com/KellyChan/events)
+- [dailydream](https://github.com/KellyChan/dailydream)
 - [dailymood](https://github.com/KellyChan/dailymood)
 - [10k-hours](https://github.com/KellyChan/10k-hours)
-- [depot](https://github.com/KellyChan/depot)
 - [todo](https://github.com/KellyChan/todo)
+
+Demo
+
+- [depot](https://github.com/KellyChan/depot)
 - [polls](https://github.com/KellyChan/polls)
 - [django-blog](https://github.com/KellyChan/django-blog)
 

@@ -76,8 +76,9 @@ blog
 
 #### Python/Django
 
+- [dailydream](https://github.com/KellyChan/dailydream)
 - [dailylife](https://github.com/KellyChan/dailylife)
-- [daily-mood](https://github.com/KellyChan/daily-mood)
+- [dailymood](https://github.com/KellyChan/dailymood)
 - [10k-hours](https://github.com/KellyChan/10k-hours)
 - [depot](https://github.com/KellyChan/depot)
 - [todo](https://github.com/KellyChan/todo)

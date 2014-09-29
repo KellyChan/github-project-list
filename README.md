@@ -139,18 +139,15 @@ pygame
 tools
 
 - [tools](https://github.com/KellyChan/tools)
-
+- [cryptography](https://github.com/KellyChan/cryptography)
 
 ## 5. Android
 
 APIs
 - [sunshine](https://github.com/KellyChan/sunshine)
 
-## 6. Libraries
 
-- [cryptography](https://github.com/KellyChan/cryptography)
-
-## 7. Study
+## 6. Study
 
 Languages
 -  [Java](https://github.com/KellyChan/Java)

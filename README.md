@@ -76,6 +76,9 @@ blog
 
 #### Python/Django
 
+projects
+- [artdepot](https://github.com/KellyChan/artdepot)
+
 MyLife
 
 - [dailylife](https://github.com/KellyChan/dailylife)
@@ -87,7 +90,6 @@ MyLife
 
 Demo
 
-- [depot](https://github.com/KellyChan/depot)
 - [polls](https://github.com/KellyChan/polls)
 - [django-blog](https://github.com/KellyChan/django-blog)
 

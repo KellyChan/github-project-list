@@ -90,6 +90,7 @@ MyLife
 
 Demo
 
+- [mvplanding](https://github.com/KellyChan/mvplanding)
 - [polls](https://github.com/KellyChan/polls)
 - [django-blog](https://github.com/KellyChan/django-blog)
 

@@ -79,9 +79,9 @@ blog
 projects
 - [artdepot](https://github.com/KellyChan/artdepot)
 
-MyLife
+Elf
 
-- [dailylife](https://github.com/KellyChan/dailylife)
+- [elf](https://github.com/KellyChan/elf)
 - [events](https://github.com/KellyChan/events)
 - [dailydream](https://github.com/KellyChan/dailydream)
 - [dailymood](https://github.com/KellyChan/dailymood)

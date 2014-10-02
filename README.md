@@ -79,7 +79,7 @@ blog
 projects
 - [artdepot](https://github.com/KellyChan/artdepot)
 
-Elf
+ELF
 
 - [elf](https://github.com/KellyChan/elf)
 - [events](https://github.com/KellyChan/events)

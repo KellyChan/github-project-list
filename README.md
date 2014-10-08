@@ -77,6 +77,7 @@ blog
 #### Python/Django
 
 projects
+- [chatbot](https://github.com/KellyChan/chatbot)
 - [artdepot](https://github.com/KellyChan/artdepot)
 
 ELF
@@ -85,7 +86,6 @@ ELF
 - [events](https://github.com/KellyChan/events)
 - [dailydream](https://github.com/KellyChan/dailydream)
 - [dailymood](https://github.com/KellyChan/dailymood)
-- [10k-hours](https://github.com/KellyChan/10k-hours)
 - [todo](https://github.com/KellyChan/todo)
 
 Demo

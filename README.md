@@ -77,6 +77,7 @@ blog
 #### Python/Django
 
 projects
+- [mledx](https://github.com/KellyChan/mledx)
 - [chatbot](https://github.com/KellyChan/chatbot)
 - [artdepot](https://github.com/KellyChan/artdepot)
 

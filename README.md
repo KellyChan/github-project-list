@@ -71,6 +71,7 @@ Kaggle
 #### Ruby/Jekyll
 
 blog
+- [edx](https://github.com/KellyChan/edx)
 - [notebook](https://github.com/KellyChan/notebook)
 - [blogalpha](https://github.com/KellyChan/blogalpha)
 

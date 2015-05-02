@@ -75,6 +75,10 @@ blog
 - [notebook](https://github.com/KellyChan/notebook)
 - [blogalpha](https://github.com/KellyChan/blogalpha)
 
+#### Python/Sphinx
+
+- [sphinx](https://github.com/KellyChan/sphinx.git)
+
 #### Python/Django
 
 projects

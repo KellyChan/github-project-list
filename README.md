@@ -8,6 +8,7 @@ Github Projects
 
 edx
 
+- [edx-documentation](https://github.com/KellyChan/edx-documentation)
 - [edx-analytics-data-api](https://github.com/KellyChan/edx-analytics-data-api)
 
 ---

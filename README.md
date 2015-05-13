@@ -11,6 +11,7 @@ edx
 - [configuration](https://github.com/KellyChan/configuration)
 - [edx-platform](https://github.com/KellyChan/edx-platform)
 - [edx-certificates](https://github.com/KellyChan/edx-certificates)
+- [edx-theme](https://github.com/KellyChan/edx-theme)
 - [cs_comments_service](https://github.com/KellyChan/cs_comments_service)
 - [edx-notes-api](https://github.com/KellyChan/edx-notes-api)
 - [edx-documentation](https://github.com/KellyChan/edx-documentation)

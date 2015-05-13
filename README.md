@@ -8,8 +8,12 @@ Github Projects
 
 edx
 
+- [configuration](https://github.com/KellyChan/configuration)
+- [edx-platform](https://github.com/KellyChan/edx-platform)
 - [edx-documentation](https://github.com/KellyChan/edx-documentation)
+- [edx-analytics-pipeline](https://github.com/KellyChan/edx-analytics-pipeline)
 - [edx-analytics-data-api](https://github.com/KellyChan/edx-analytics-data-api)
+- [edx-analytics-dashboard](https://github.com/KellyChan/edx-analytics-dashboard)
 
 ---
 

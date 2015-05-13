@@ -1,11 +1,6 @@
 Github Projects
 ======
 
-Table of Contents
-- 1. IDE
-- 2. Data
-- 3. Web
-- 4. Study
 
 ---
 
@@ -16,6 +11,12 @@ edx
 - [edx-analytics-data-api](https://github.com/KellyChan/edx-analytics-data-api)
 
 ---
+
+Table of Contents
+- 1. IDE
+- 2. Data
+- 3. Web
+- 4. Study
 
 
 ## 1. IDE

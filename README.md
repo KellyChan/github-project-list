@@ -20,7 +20,7 @@ edx
 
 edx-variations
 
-- [edx-theme](- [edx-theme](https://github.com/KellyChan/edx-theme)
+- [edx-theme](https://github.com/KellyChan/edx-theme)
 
 emacs
 

@@ -21,6 +21,7 @@ edx
 edx-variations
 
 - [edx-theme](https://github.com/KellyChan/edx-theme)
+- [edx-theme-rainbow](https://github.com/KellyChan/edx-theme-rainbow)
 
 emacs
 

@@ -19,6 +19,10 @@ edx
 - [edx-analytics-data-api](https://github.com/KellyChan/edx-analytics-data-api)
 - [edx-analytics-dashboard](https://github.com/KellyChan/edx-analytics-dashboard)
 
+emacs
+
+- [emacs-ubuntu](https://github.com/KellyChan/emacs-ubuntu)
+
 ---
 
 Table of Contents

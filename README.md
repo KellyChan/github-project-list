@@ -23,6 +23,10 @@ edx-variations
 - [edx-theme](https://github.com/KellyChan/edx-theme)
 - [edx-theme-rainbow](https://github.com/KellyChan/edx-theme-rainbow)
 
+python
+
+- [boto](https://github.com/KellyChan/boto)
+
 emacs
 
 - [emacs-ubuntu](https://github.com/KellyChan/emacs-ubuntu)

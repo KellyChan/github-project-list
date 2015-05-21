@@ -176,6 +176,10 @@ backbone
 - [backbone-todo](https://github.com/KellyChan/backbone-todo)
 - [backbone-templates](https://github.com/KellyChan/backbone-templates)
 
+jquery-fileuplouad
+
+- [jquery-fileupload](https://github.com/KellyChan/jquery-fileupload)
+
 ## 4. Applications
 
 pygame

@@ -27,6 +27,10 @@ python
 
 - [boto](https://github.com/KellyChan/boto)
 
+backbone
+
+- [backbone](https://github.com/KellyChan/backbone)
+
 emacs
 
 - [emacs-ubuntu](https://github.com/KellyChan/emacs-ubuntu)

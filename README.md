@@ -174,6 +174,7 @@ app.js
 backbone
 
 - [backbone-todo](https://github.com/KellyChan/backbone-todo)
+- [backbone-templates](https://github.com/KellyChan/backbone-templates)
 
 ## 4. Applications
 

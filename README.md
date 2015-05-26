@@ -18,6 +18,8 @@ edx
 - [edx-analytics-data-api](https://github.com/KellyChan/edx-analytics-data-api)
 - [edx-analytics-dashboard](https://github.com/KellyChan/edx-analytics-dashboard)
 
+- [edx-platform-test](https://github.com/KellyChan/edx-platform-test)
+
 edx-variations
 
 - [edx-theme](https://github.com/KellyChan/edx-theme)

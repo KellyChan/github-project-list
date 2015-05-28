@@ -182,6 +182,10 @@ jquery-fileuplouad
 
 - [jquery-fileupload](https://github.com/KellyChan/jquery-fileupload)
 
+ajax
+
+- [ajax](https://github.com/KellyChan/ajax)
+
 ## 4. Applications
 
 pygame

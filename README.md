@@ -28,6 +28,7 @@ edx-variations
 python
 
 - [boto](https://github.com/KellyChan/boto)
+- [readthedocs](https://github.com/KellyChan/readthedocs.org)
 
 backbone
 

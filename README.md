@@ -118,6 +118,7 @@ blog
 #### Python/Sphinx
 
 - [sphinx](https://github.com/KellyChan/sphinx.git)
+- [sphinx-blogs](https://github.com/KellyChan/sphinx-blogs)
 
 #### Python/Django
 

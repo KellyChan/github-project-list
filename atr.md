@@ -4,7 +4,13 @@ ATR
 
 ## ATR (built by ghost)
 
+- [atr-ansible](https://github.com/KellyChan/atr-ansbile)
 
+ghost
+
+- [ghost-master](https://github.com/KellyChan/ghost-master)
+- [ghost-theme-atr-platform](https://github.com/KellyChan/ghost-theme-atr-platform)
+- [ghost-theme-libre](https://github.com/KellyChan/ghost-theme-libre)
 
 
 ## ATR (built by ruby/jekyll)
@@ -26,7 +32,9 @@ research
 
 
 
+## NOTES
 
+- [notebook](https://github.com/KellyChan/notebook)
 
 
 

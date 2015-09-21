@@ -1,6 +1,9 @@
 Study
 ======================================
 
+Machine Learning
+
+- [Kaggle](https://github.com/KellyChan/Kaggle)
 
 Languages
 -  [Java](https://github.com/KellyChan/Java)

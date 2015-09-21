@@ -2,7 +2,7 @@ ATR
 ==========================================
 
 
-## ATR (built by ghost)
+## ATR (built by node.js/ghost)
 
 - [atr-ansible](https://github.com/KellyChan/atr-ansbile)
 

@@ -1,2 +1,2 @@
-Github Project List
+Personal Project List on Github
 =========================================

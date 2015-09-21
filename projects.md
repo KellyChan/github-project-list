@@ -4,4 +4,4 @@ Projects
 
 ### DevOps
 
-- [linux-scripts](https://github.com/KellyChan/linux-scripts)
+- [linux-devops](https://github.com/KellyChan/linux-devops)

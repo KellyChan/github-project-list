@@ -1,6 +1,10 @@
 Projects (fork)
 =======================================
 
+## OpenStack
+
+- [openstack-dev/devstack](https://github.com/KellyChan/devstack)
+
 
 ## IDEs
 

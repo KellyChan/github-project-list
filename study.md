@@ -23,7 +23,7 @@ Web
 -  [Javascript](https://github.com/KellyChan/Javascript)
 
 DBs
--  [dbs](https://github.com/KellyChan/dbs)
+-  [DBs](https://github.com/KellyChan/DBs)
 
 Hardware
 -  [E](https://github.com/KellyChan/E)

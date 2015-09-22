@@ -1,6 +1,13 @@
 Projects (fork)
 =======================================
 
+Robotics
+---------------------
+
+- `will`_
+
+.. _`will`: https://github.com/KellyChan/will
+
 
 OpenStack
 ---------------------

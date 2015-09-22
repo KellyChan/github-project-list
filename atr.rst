@@ -2,39 +2,64 @@ ATR
 ==========================================
 
 
-## ATR (built by node.js/ghost)
+ATR (built by node.js/ghost)
+----------------------------------
 
-- [atr-ansible](https://github.com/KellyChan/atr-ansbile)
+- `atr-ansible`_
+
+.. _`atr-ansible`: https://github.com/KellyChan/atr-ansbile
 
 ghost
 
-- [ghost-master](https://github.com/KellyChan/ghost-master)
-- [ghost-theme-atr-platform](https://github.com/KellyChan/ghost-theme-atr-platform)
-- [ghost-theme-libre](https://github.com/KellyChan/ghost-theme-libre)
+- `ghost-master`_
+- `ghost-theme-atr-platform`_
+- `ghost-theme-libre`_
+
+.. _`ghost-master`: https://github.com/KellyChan/ghost-master
+.. _`ghost-theme-atr-platform`: https://github.com/KellyChan/ghost-theme-atr-platform
+.. _`ghost-theme-libre`: https://github.com/KellyChan/ghost-theme-libre
 
 
-## ATR (built by ruby/jekyll)
-
+ATR (built by ruby/jekyll)
+--------------------------------------
 
 main
-- [arttechresearch](https://github.com/KellyChan/arttechresearch)
-- [blog](https://github.com/KellyChan/blog)
+
+- `arttechresearch`_
+- `blog`_
+
+.. _`arttechresearch`: https://github.com/KellyChan/arttechresearch
+.. _`blog`: https://github.com/KellyChan/blog
 
 art
-- [pearls](https://github.com/KellyChan/pearls)
+
+- `pearls`_
+
+.. _`pearls`: https://github.com/KellyChan/pearls
 
 tech 
-- [webkit](https://github.com/KellyChan/webkit)
-- [d3codes](https://github.com/KellyChan/d3codes)
+
+- `webkit`_
+- `d3codes`_
+
+.. _`webkit`: https://github.com/KellyChan/webkit
+.. _`d3codes`: https://github.com/KellyChan/d3codes
 
 research
-- [forexviz](https://github.com/KellyChan/forexviz)
+
+- `forexviz`_
+
+.. _`forexviz`: https://github.com/KellyChan/forexviz
 
 
 
-## NOTES
+NOTES
+--------------------------------
 
-- [notebook](https://github.com/KellyChan/notebook)
+- `notebook`_
+- `github-project-list`_
 
+.. _`notebook`: https://github.com/KellyChan/notebook
+.. _`github-project-list`: https://github.com/KellyChan/github-project-list
 
 

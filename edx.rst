@@ -1,25 +1,28 @@
 edX
 =====================================
 
-## edx-platform
+edx-platform
+---------------------
 
 
-
-## edx-analytics
-
-
-## edx-certs
+edx-analytics
+---------------------
 
 
-# edx-mobile
+edx-certs
+---------------------
+
+edx-mobile
+---------------------
 
 
+edx-devops
+--------------------
 
-## edx-devops
 
+edx-documentation
+-------------------------
 
-
-## edx-documentation
 
 - `edx-documentation`_
 

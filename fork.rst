@@ -1,20 +1,35 @@
 Projects (fork)
 =======================================
 
-## OpenStack
+OpenStack
+---------------------
 
-- [openstack-dev/devstack](https://github.com/KellyChan/devstack)
+- `openstack-dev/devstack`_
 
-## Blogging Engine
-
-- [ghost](https://github.com/KellyChan/Ghost)
+.. _`openstack-dev/devstack`: https://github.com/KellyChan/devstack
 
 
-## Proxy
+Blogging Engine
+----------------------
 
-- [lantern](https://github.com/KellyChan/lantern)
-- [shadowsocks](https://github.com/KellyChan/shadowsocks)
+- `ghost`_
 
-## IDEs
+.. _`ghost`: https://github.com/KellyChan/Ghost
 
-- [emacs](https://github.com/KellyChan/emacs)
+
+Proxy
+-----------------------
+
+- `lantern`_
+- `shadowsocks`_
+
+.. _`lantern`: https://github.com/KellyChan/lantern
+.. _`shadowsocks`: https://github.com/KellyChan/shadowsocks
+
+
+IDEs
+------------------------
+
+- `emacs`_
+
+.. _`emacs`: https://github.com/KellyChan/emacs

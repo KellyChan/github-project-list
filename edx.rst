@@ -1,7 +1,7 @@
 edX
 =====================================
 
-For all the edX projects, checkout a new branch for the devstac 
+For all the edX projects, checkout a new branch as the devstack with the below steps:
 
 ::
    

@@ -23,5 +23,5 @@ edX
 
 - `edx-documentation`_
 
-_`edx-documentation`: https://github.com/KellyChan/edx-documentation
+.. _`edx-documentation`: https://github.com/KellyChan/edx-documentation
 

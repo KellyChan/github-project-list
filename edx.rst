@@ -1,8 +1,10 @@
 edX
 =====================================
 
-For all the edX projects, checkout a new branch for the devstack.
+For all the edX projects, checkout a new branch for the devstac 
 
+::
+   
     $ git clone http://repo_url
     $ cd repo
     $ git branch

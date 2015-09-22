@@ -18,7 +18,7 @@ Languages
 
 .. _`Java`: https://github.com/KellyChan/Java
 .. _`CPP`: https://github.com/KellyChan/CPP
-.. _`Python: https://github.com/KellyChan/Python
+.. _`Python`: https://github.com/KellyChan/Python
 .. _`Ruby`: https://github.com/KellyChan/Ruby
 
 Data

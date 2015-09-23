@@ -63,3 +63,10 @@ edx-documentation
 
 .. _`edx-documentation`: https://github.com/KellyChan/edx-documentation
 
+
+devkits
+------------------------
+
+- `edx-fonts`_
+
+.. _`edx-fonts`: https://github.com/KellyChan/edx-fonts

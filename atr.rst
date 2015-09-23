@@ -5,6 +5,10 @@ ATR
 ATR (built by node.js/ghost)
 ----------------------------------
 
+- `atr-books`_
+
+.. _`atr-books`: https://github.com/KellyChan/atr-books
+
 - `atr-ansible`_
 
 .. _`atr-ansible`: https://github.com/KellyChan/atr-ansbile

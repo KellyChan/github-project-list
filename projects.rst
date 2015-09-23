@@ -1,13 +1,22 @@
 Projects
 ===============================================
 
+frontend
+-------------------
 
-Devkits
+- `font-factory`_
+
+.. _`font-factory`: https://github.com/KellyChan/font-factory
+
+
+Backend
 ---------------------
+
 
 - `sphinx-framework`_
 
 .. _`sphinx-framework`: https://github.com/KellyChan/sphinx-framework
+
 
 DevOps
 -------------------

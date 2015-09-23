@@ -25,6 +25,22 @@ Blogging Engine
 .. _`ghost`: https://github.com/KellyChan/Ghost
 
 
+Testing
+----------------------
+
+- `ddt`_
+
+.. _`ddt`: https://github.com/KellyChan/ddt
+
+
+Devops
+-----------------------
+
+- `ansible`_
+
+.. _`ansible`: https://github.com/KellyChan/ansible
+
+
 Proxy
 -----------------------
 

@@ -46,6 +46,16 @@ edx-certs
 edx-mobile
 ---------------------
 
+edx-AI
+----------------------
+
+- `ease`_
+- `alton`_
+- `xsy`_
+
+.. _`ease`: https://github.com/KellyChan/ease
+.. _`alton`: https://github.com/KellyChan/alton
+.. _`xsy`: https://github.com/KellyChan/xsy
 
 edx-devops
 --------------------
@@ -68,5 +78,9 @@ devkits
 ------------------------
 
 - `edx-fonts`_
+- `skel`_
 
 .. _`edx-fonts`: https://github.com/KellyChan/edx-fonts
+.. _`skel`: https://github.com/KellyChan/skel
+
+

@@ -9,7 +9,7 @@ AI
 .. _`octo`: https://github.com/KellyChan/octo  
 
 
-frontend
+FrontEnd
 -------------------
 
 - `font-factory`_
@@ -34,3 +34,10 @@ DevOps
 
 .. _`linux-devops`: https://github.com/KellyChan/linux-devops
 .. _`Vagrantfiles`: https://github.com/KellyChan/Vagrantfiles
+
+Templates
+---------------------
+
+- `project-template`_
+
+.. _`project-template`: https://github.com/KellyChan/project-template 

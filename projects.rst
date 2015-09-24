@@ -1,6 +1,14 @@
 Projects
 ===============================================
 
+AI
+-------------------
+
+- `octo`_
+
+.. _`octo`: https://github.com/KellyChan/octo  
+
+
 frontend
 -------------------
 

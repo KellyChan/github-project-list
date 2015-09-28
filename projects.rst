@@ -32,10 +32,12 @@ DevOps
 - `linux-devops`_
 - `Vagrantfiles`_
 - `dockerfiles`_
+- `vimrc`_
 
 .. _`linux-devops`: https://github.com/KellyChan/linux-devops
 .. _`Vagrantfiles`: https://github.com/KellyChan/Vagrantfiles
 .. _`dockerfiles`: https://github.com/KellyChan/dockerfiles
+.. _`vimrc`: https://github.com/KellyChan/vimrc
 
 Templates
 ---------------------

@@ -37,9 +37,10 @@ Devops
 -----------------------
 
 - `ansible`_
+- `vagrant`_
 
 .. _`ansible`: https://github.com/KellyChan/ansible
-
+.. _`vagrant`: https://github.com/KellyChan/vagrant
 
 Proxy
 -----------------------

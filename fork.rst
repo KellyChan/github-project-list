@@ -9,6 +9,13 @@ Robotics
 .. _`will`: https://github.com/KellyChan/will
 
 
+Analytics
+---------------------
+
+- `reportlab`_
+
+.. _`reportlab`: https://github.com/KellyChan/reportlab
+
 OpenStack
 ---------------------
 

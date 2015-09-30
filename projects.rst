@@ -4,8 +4,11 @@ Projects
 AI
 -------------------
 
+- `octowill`_
 - `octo`_
 
+
+.. _`octowill`: https://github.com/KellyChan/octowill
 .. _`octo`: https://github.com/KellyChan/octo  
 
 

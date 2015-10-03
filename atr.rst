@@ -30,9 +30,11 @@ ATR (built by ruby/jekyll)
 main
 
 - `arttechresearch`_
+- `atr-blog`_
 - `blog`_
 
 .. _`arttechresearch`: https://github.com/KellyChan/arttechresearch
+.. _`atr-blog`: https://github.com/KellyChan/atr-blog
 .. _`blog`: https://github.com/KellyChan/blog
 
 art

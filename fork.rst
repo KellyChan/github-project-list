@@ -28,9 +28,10 @@ Blogging Engine
 ----------------------
 
 - `ghost`_
+- `jekyll`_
 
 .. _`ghost`: https://github.com/KellyChan/Ghost
-
+.. _`jekyll`: https://github.com/KellyChan/jekyll
 
 Testing
 ----------------------

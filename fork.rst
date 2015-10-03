@@ -29,9 +29,11 @@ Blogging Engine
 
 - `ghost`_
 - `jekyll`_
+- `octopress`_
 
 .. _`ghost`: https://github.com/KellyChan/Ghost
 .. _`jekyll`: https://github.com/KellyChan/jekyll
+.. _`octopress`: https://github.com/KellyChan/octopress
 
 Testing
 ----------------------

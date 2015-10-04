@@ -31,11 +31,9 @@ main
 
 - `arttechresearch`_
 - `atr-blog`_
-- `blog`_
 
 .. _`arttechresearch`: https://github.com/KellyChan/arttechresearch
 .. _`atr-blog`: https://github.com/KellyChan/atr-blog
-.. _`blog`: https://github.com/KellyChan/blog
 
 art
 
@@ -58,13 +56,15 @@ research
 .. _`forexviz`: https://github.com/KellyChan/forexviz
 
 
+***************
+K
+***************
 
-NOTES
---------------------------------
-
+- `blog`_
 - `notebook`_
 - `github-project-list`_
 
+.. _`blog`: https://github.com/KellyChan/blog
 .. _`notebook`: https://github.com/KellyChan/notebook
 .. _`github-project-list`: https://github.com/KellyChan/github-project-list
 

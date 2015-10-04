@@ -61,10 +61,14 @@ K
 ***************
 
 - `blog`_
+- `octopress-theme-libre`_
+
 - `notebook`_
 - `github-project-list`_
 
 .. _`blog`: https://github.com/KellyChan/blog
+.. _`octopress-theme-libre`: https://github.com/KellyChan/octopress-theme-libre
+
 .. _`notebook`: https://github.com/KellyChan/notebook
 .. _`github-project-list`: https://github.com/KellyChan/github-project-list
 

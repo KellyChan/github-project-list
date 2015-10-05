@@ -60,15 +60,17 @@ research
 K
 ***************
 
-- `blog`_
+- `k`_
 - `octopress-theme-libre`_
 
+- `blog`_
 - `notebook`_
 - `github-project-list`_
 
-.. _`blog`: https://github.com/KellyChan/blog
+.. _`k`: https://github.com/KellyChan/k
 .. _`octopress-theme-libre`: https://github.com/KellyChan/octopress-theme-libre
 
+.. _`blog`: https://github.com/KellyChan/blog
 .. _`notebook`: https://github.com/KellyChan/notebook
 .. _`github-project-list`: https://github.com/KellyChan/github-project-list
 

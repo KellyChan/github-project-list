@@ -12,6 +12,14 @@ AI
 .. _`octo`: https://github.com/KellyChan/octo  
 
 
+Analytics
+----------------------
+
+- `stock-insights`_
+
+.. _`stock-insights`: https://github.com/KellyChan/stock-insights
+
+
 FrontEnd
 -------------------
 

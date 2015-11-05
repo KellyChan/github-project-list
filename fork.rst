@@ -68,3 +68,10 @@ IDEs
 - `emacs`_
 
 .. _`emacs`: https://github.com/KellyChan/emacs
+
+UI
+--------------------------
+
+- `solarized`_
+
+.. _`solarized`: https://github.com/KellyChan/solarized

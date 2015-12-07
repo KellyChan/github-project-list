@@ -24,6 +24,13 @@ OpenStack
 .. _`openstack-dev/devstack`: https://github.com/KellyChan/devstack
 
 
+Search
+--------------------
+
+- `elasticsearch`_
+
+.. _``:https://github.com/KellyChan/elasticsearch
+
 Blogging Engine
 ----------------------
 

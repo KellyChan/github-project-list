@@ -59,6 +59,13 @@ Devops
 .. _`ansible`: https://github.com/KellyChan/ansible
 .. _`vagrant`: https://github.com/KellyChan/vagrant
 
+Apps
+-----------------------
+
+- `hackmyresume`_
+
+.. _`hackmyresume`: https://github.com/KellyChan/HackMyResume
+
 Proxy
 -----------------------
 

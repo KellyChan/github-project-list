@@ -33,8 +33,10 @@ Backend
 
 
 - `sphinx-framework`_
+- `sphinx-framework-lite`_
 
 .. _`sphinx-framework`: https://github.com/KellyChan/sphinx-framework
+.. _`sphinx-framework-lite`: https://github.com/KellyChan/sphinx-framework-lite.git
 
 API
 --------------------

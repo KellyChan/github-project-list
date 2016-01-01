@@ -46,9 +46,10 @@ Testing
 ----------------------
 
 - `ddt`_
+- `Helium`_
 
 .. _`ddt`: https://github.com/KellyChan/ddt
-
+.. _`Helium`: https://github.com/KellyChan/Helium
 
 Devops
 -----------------------

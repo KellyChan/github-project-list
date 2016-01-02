@@ -28,8 +28,11 @@ API
 --------------------
 
 - `flask-restless`_
+- `tornado-rest-handler`_
 
 .. _`flask-restless`: https://github.com/KellyChan/flask-restless
+.. _`tornado-rest-handler`: https://github.com/KellyChan/tornado-rest-handler
+
 
 Search
 --------------------

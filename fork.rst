@@ -24,6 +24,13 @@ OpenStack
 .. _`openstack-dev/devstack`: https://github.com/KellyChan/devstack
 
 
+API
+--------------------
+
+- `flask-restless`_
+
+.. _`flask-restless`: https://github.com/KellyChan/flask-restless
+
 Search
 --------------------
 

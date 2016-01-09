@@ -20,15 +20,17 @@ Languages
 
 - `Java`_
 - `CPP`_
-- `Python`_
+- `python`_
+- `python_examples`_
 - `Ruby`_
-- `Scala`_
+- `scala_examples`_
 
 .. _`Java`: https://github.com/KellyChan/Java
 .. _`CPP`: https://github.com/KellyChan/CPP
-.. _`Python`: https://github.com/KellyChan/Python
+.. _`python`: https://github.com/KellyChan/python
+.. _`python_examples`: https://github.com/KellyChan/python_examples
 .. _`Ruby`: https://github.com/KellyChan/Ruby
-.. _`Scala`: https://github.com/KellyChan/Scala
+.. _`scala_examples`: https://github.com/KellyChan/scala_examples
 
 Data
 ------------------------

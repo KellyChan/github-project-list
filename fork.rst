@@ -12,8 +12,11 @@ Robotics
 Analytics
 ---------------------
 
+- `seaborn`_
 - `reportlab`_
 
+
+.. _`seaborn`: https://github.com/KellyChan/seaborn
 .. _`reportlab`: https://github.com/KellyChan/reportlab
 
 OpenStack

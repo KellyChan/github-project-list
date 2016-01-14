@@ -19,17 +19,17 @@ Languages
 -----------------------
 
 - `java-examples`_
-- `CPP`_
+- `cpp-examples`_
 - `python`_
 - `python-examples`_
-- `Ruby`_
+- `ruby-examples`_
 - `scala-examples`_
 
 .. _`java-examples`: https://github.com/KellyChan/java-examples
-.. _`CPP`: https://github.com/KellyChan/CPP
+.. _`cpp-examples`: https://github.com/KellyChan/cpp-examples
 .. _`python`: https://github.com/KellyChan/python
 .. _`python-examples`: https://github.com/KellyChan/python-examples
-.. _`Ruby`: https://github.com/KellyChan/Ruby
+.. _`ruby-examples`: https://github.com/KellyChan/ruby-examples
 .. _`scala-examples`: https://github.com/KellyChan/scala-examples
 
 Data

@@ -4,9 +4,9 @@ Study
 Distributed Systems
 ------------------------
 
-- `Hadoop`_
+- `hadoop-examples`_
 
-.. _`Hadoop`: https://github.com/KellyChan/Hadoop.git
+.. _`hadoop-examples`: https://github.com/KellyChan/hadoop-examples.git
 
 Machine Learning
 ------------------------

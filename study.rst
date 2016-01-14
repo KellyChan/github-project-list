@@ -18,14 +18,14 @@ Machine Learning
 Languages
 -----------------------
 
-- `Java`_
+- `java-examples`_
 - `CPP`_
 - `python`_
 - `python-examples`_
 - `Ruby`_
 - `scala-examples`_
 
-.. _`Java`: https://github.com/KellyChan/Java
+.. _`java-examples`: https://github.com/KellyChan/java-examples
 .. _`CPP`: https://github.com/KellyChan/CPP
 .. _`python`: https://github.com/KellyChan/python
 .. _`python-examples`: https://github.com/KellyChan/python-examples

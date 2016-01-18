@@ -6,11 +6,11 @@ AI
 
 - `octowill`_
 - `octo`_
-
+- `hangman-client`-
 
 .. _`octowill`: https://github.com/KellyChan/octowill
 .. _`octo`: https://github.com/KellyChan/octo  
-
+.. _`hangman-client`: https://github.com/KellyChan/hangman-client
 
 Analytics
 ----------------------

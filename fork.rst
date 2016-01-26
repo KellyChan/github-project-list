@@ -15,9 +15,12 @@ Analytics
 - `seaborn`_
 - `reportlab`_
 
+- `storm`_
 
 .. _`seaborn`: https://github.com/KellyChan/seaborn
 .. _`reportlab`: https://github.com/KellyChan/reportlab
+
+.. _`storm`: https://github.com/KellyChan/storm
 
 OpenStack
 ---------------------

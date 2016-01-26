@@ -12,11 +12,14 @@ AI
 .. _`octo`: https://github.com/KellyChan/octo  
 .. _`hangmanbot`: https://github.com/KellyChan/hangmanbot
 
-Analytics
-----------------------
 
+Analytics & Machine Learning
+-------------------------------
+
+- `realtime-tweet-recommendation`_
 - `stock-insights`_
 
+.. _`realtime-tweet-recommendation`: https://github.com/KellyChan/realtime-tweet-recommendation
 .. _`stock-insights`: https://github.com/KellyChan/stock-insights
 
 

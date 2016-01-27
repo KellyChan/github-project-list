@@ -79,9 +79,6 @@ Devops
 Apps
 -----------------------
 
-- `hackmyresume`_
-
-.. _`hackmyresume`: https://github.com/KellyChan/HackMyResume
 
 Proxy
 -----------------------

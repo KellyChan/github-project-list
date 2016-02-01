@@ -7,10 +7,12 @@ AI
 - `octowill`_
 - `octo`_
 - `hangmanbot`-
+- `dreamer`_
 
 .. _`octowill`: https://github.com/KellyChan/octowill
 .. _`octo`: https://github.com/KellyChan/octo  
 .. _`hangmanbot`: https://github.com/KellyChan/hangmanbot
+.. _`dreamer`: https://github.com/KellyChan/dreamer
 
 
 Analytics & Machine Learning

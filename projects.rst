@@ -43,12 +43,6 @@ Backend
 .. _`sphinx-framework`: https://github.com/KellyChan/sphinx-framework
 .. _`sphinx-framework-rtd`: https://github.com/KellyChan/sphinx-framework-rtd.git
 
-API
---------------------
-
-- `todo-api`_
-
-.. _`todo-api`: https://github.com/KellyChan/todo-api.git
 
 
 DevOps

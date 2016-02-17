@@ -68,8 +68,6 @@ Tools
 
 - `project-template`_
 - `reporter`_
-- `image`_
 
 .. _`project-template`: https://github.com/KellyChan/project-template 
 .. _`reporter`: https://github.com/KellyChan/reporter
-.. _`image`: https://github.com/KellyChan/image

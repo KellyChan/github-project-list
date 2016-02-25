@@ -1,6 +1,13 @@
 Projects
 ===============================================
 
+Robotics
+-------------------
+
+- `aldebaran-docs`_
+
+.. _`aldebaran-docs`: https://github.com/KellyChan/aldebaran-docs
+
 AI
 -------------------
 

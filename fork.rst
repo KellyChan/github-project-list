@@ -8,6 +8,14 @@ Robotics
 
 .. _`will`: https://github.com/KellyChan/will
 
+Machine Learning
+---------------------
+
+- `caffe`_
+- `caffe-bak`_
+
+.. _`caffe`: https://github.com/KellyChan/caffe
+.. _`caffe-bak`: https://github.com/KellyChan/caffe-bak
 
 Analytics
 ---------------------

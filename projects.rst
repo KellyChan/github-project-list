@@ -15,11 +15,13 @@ AI
 - `octo`_
 - `hangmanbot`-
 - `dreamer`_
+- `facepp`_
 
 .. _`octowill`: https://github.com/KellyChan/octowill
 .. _`octo`: https://github.com/KellyChan/octo  
 .. _`hangmanbot`: https://github.com/KellyChan/hangmanbot
 .. _`dreamer`: https://github.com/KellyChan/dreamer
+.. _`facepp`: https://github.com/KellyChan/facepp
 
 
 Analytics & Machine Learning

@@ -1,6 +1,15 @@
 Projects (fork)
 =======================================
 
+
+AI
+---------------------
+
+- `AlphaGo`:
+
+.. _`AlphaGo`: https://github.com/KellyChan/AlphaGo
+
+
 Robotics
 ---------------------
 

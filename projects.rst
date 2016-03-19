@@ -77,6 +77,8 @@ Tools
 
 - `project-template`_
 - `reporter`_
+- `algos`_
 
 .. _`project-template`: https://github.com/KellyChan/project-template 
 .. _`reporter`: https://github.com/KellyChan/reporter
+.. _`algos`: https://github.com/KellyChan/algos.git

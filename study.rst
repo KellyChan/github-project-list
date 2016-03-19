@@ -24,7 +24,6 @@ Languages
 - `python-examples`_
 - `ruby-examples`_
 - `scala-examples`_
-- `coding-interview`_
 
 .. _`java-examples`: https://github.com/KellyChan/java-examples
 .. _`cpp-examples`: https://github.com/KellyChan/cpp-examples
@@ -32,7 +31,6 @@ Languages
 .. _`python-examples`: https://github.com/KellyChan/python-examples
 .. _`ruby-examples`: https://github.com/KellyChan/ruby-examples
 .. _`scala-examples`: https://github.com/KellyChan/scala-examples
-.. _`coding-interview`: https://github.com/KellyChan/coding-interview
 
 
 Data

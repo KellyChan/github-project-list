@@ -16,12 +16,14 @@ AI
 - `hangmanbot`-
 - `dreamer`_
 - `facepp`_
+- `deeplearning-demos`_
 
 .. _`octowill`: https://github.com/KellyChan/octowill
 .. _`octo`: https://github.com/KellyChan/octo  
 .. _`hangmanbot`: https://github.com/KellyChan/hangmanbot
 .. _`dreamer`: https://github.com/KellyChan/dreamer
 .. _`facepp`: https://github.com/KellyChan/facepp
+.. _`deeplearning-demos`: https://github.com/KellyChan/deeplearning-demos
 
 
 Analytics & Machine Learning

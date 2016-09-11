@@ -9,6 +9,7 @@ Projects
 - [initializer](https://github.com/KellyChan/initializer)
 - [font-factory](https://github.com/KellyChan/font-factory)
 - [pysrc](https://github.com/KellyChan/pysrc)
+- [facepp-cli](https://github.com/KellyChan/facepp-cli)
 
 MOOC
 -----------------------

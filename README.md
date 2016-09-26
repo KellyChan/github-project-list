@@ -13,16 +13,12 @@ Projects
 - [facepp-cli](https://github.com/KellyChan/facepp-cli)
 
 
-MOOC
------------------------
-
-- [stanford-cs231n-cnn](https://github.com/KellyChan/stanford-cs231n-cnn)
-- [pennsylvania-cis565-gpu](https://github.com/KellyChan/pennsylvania-cis565-gpu)
 
 Helper
 -----------------------
 
 - [algos](https://github.com/kwailamchan/algos)
+- [mooc](https://github.com/kwailamchan/mooc)
 - [programming-languages](https://github.com/KellyChan/programming-languages)
 - [devops](https://github.com/KellyChan/devops)
 

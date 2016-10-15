@@ -4,6 +4,7 @@ ProLogs
 Projects
 -----------------------
 
+- [muse](https://github.com/kwailamchan/muse)
 - [hadoopecho](https://github.com/kwailamchan/hadoopeco)
 - [hangmanbot](https://github.com/kwailamchan/hangmanbot)
 - [reporter](https://github.com/kwailamchan/reporter)

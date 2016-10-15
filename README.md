@@ -5,30 +5,30 @@ Projects
 -----------------------
 
 - [hadoopecho](https://github.com/kwailamchan/hadoopeco)
-- [hangmanbot](https://github.com/KellyChan/hangmanbot)
-- [reporter](https://github.com/KellyChan/reporter)
-- [initializer](https://github.com/KellyChan/initializer)
-- [font-factory](https://github.com/KellyChan/font-factory)
-- [pysrc](https://github.com/KellyChan/pysrc)
-- [facepp-cli](https://github.com/KellyChan/facepp-cli)
+- [hangmanbot](https://github.com/kwailamchan/hangmanbot)
+- [reporter](https://github.com/kwailamchan/reporter)
+- [initializer](https://github.com/kwailamchan/initializer)
+- [font-factory](https://github.com/kwailamchan/font-factory)
+- [pysrc](https://github.com/kwailamchan/pysrc)
+- [facepp-cli](https://github.com/kwailamchan/facepp-cli)
 
 
 MOOC
 -----------------------
 
-- [stanford-cs231n-cnn](https://github.com/KellyChan/stanford-cs231n-cnn)
-- [pennsylvania-cis565-gpu](https://github.com/KellyChan/pennsylvania-cis565-gpu)
+- [mooc](https://github.com/kwailamchan/mooc)
 
 Helper
 -----------------------
 
 - [algos](https://github.com/kwailamchan/algos)
-- [programming-languages](https://github.com/KellyChan/programming-languages)
-- [devops](https://github.com/KellyChan/devops)
+- [programming-languages](https://github.com/kwailamchan/programming-languages)
+- [devops](https://github.com/kwailamchan/devops)
+
 
 Backup
 -----------------------
 
-- [k](https://github.com/KellyChan/k)
-- [atr](https://github.com/KellyChan/atr)
-- [kaggle](https://github.com/KellyChan/kaggle)
+- [k](https://github.com/kwailamchan/k)
+- [atr](https://github.com/kwailamchan/atr)
+- [kaggle](https://github.com/kwailamchan/kaggle)

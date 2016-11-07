@@ -6,6 +6,7 @@ Projects
 
 - [muse](https://github.com/kwailamchan/muse)
 - [hangmanbot](https://github.com/kwailamchan/hangmanbot)
+- [self-driving-car](https://github.com/kwailamchan/self-driving-car.git)
 
 
 Tools
@@ -18,10 +19,6 @@ Tools
 - [font-factory](https://github.com/kwailamchan/font-factory)
 
 
-Competitions
------------------------
-
-- [kaggle](https://github.com/kwailamchan/kaggle)
 
 Study
 -----------------------
@@ -43,5 +40,6 @@ Source Codes
 Backup
 -----------------------
 
+- [kaggle](https://github.com/kwailamchan/kaggle)
 - [k](https://github.com/kwailamchan/k)
 - [atr](https://github.com/kwailamchan/atr)

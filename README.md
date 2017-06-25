@@ -25,7 +25,7 @@ Study
 
 - [algos](https://github.com/kwailamchan/algos)
 - [robotics](https://github.com/kwailamchan/robotics)
-- [nn](https://github.com/kwailamchan/nn)
+- [neural-networks](https://github.com/kwailamchan/neural-networks)
 - [conferences](https://github.com/kwailamchan/conferences)
 - [hadoopecho](https://github.com/kwailamchan/hadoopeco)
 - [mooc](https://github.com/kwailamchan/mooc)

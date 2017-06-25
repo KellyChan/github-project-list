@@ -1,15 +1,30 @@
-ProLogs
+Project List
 =================================
 
 Projects
 -----------------------
 
+- [doris](https://github.com/kwailamchan/doris)
 - [muse](https://github.com/kwailamchan/muse)
 - [hangmanbot](https://github.com/kwailamchan/hangmanbot)
+- [cerebral](https://github.com/kwailamchan/cerebral.git)
+- [camera](https://github.com/kwailamchan/camera.git)
+- [atari](https://github.com/kwailamchan/atari)
 
 
 Tools
 -----------------------
+
+Dev
+
+- [clog](https://github.com/kwailamchan/clog)
+
+DevOps
+
+- [cmake](https://github.com/kwailamchan/cmake)
+- [makefile](https://github.com/kwailamchan/makefile)
+
+Tools
 
 - [reporter](https://github.com/kwailamchan/reporter)
 - [facepp-cli](https://github.com/kwailamchan/facepp-cli)
@@ -17,20 +32,35 @@ Tools
 - [initializer](https://github.com/kwailamchan/initializer)
 - [font-factory](https://github.com/kwailamchan/font-factory)
 
+Datasets
 
+- [datasets](https://github.com/kwailamchan/datasets)
 
 Study
 -----------------------
 
+Programming
+
+- [programming-languages](https://github.com/kwailamchan/programming-languages)
 - [algorithms](https://github.com/kwailamchan/algorithms)
+- [mooc](https://github.com/kwailamchan/mooc)
+
+AI
+
 - [robotics](https://github.com/kwailamchan/robotics)
 - [neural-networks](https://github.com/kwailamchan/neural-networks)
-- [conferences](https://github.com/kwailamchan/conferences)
-- [hadoopecho](https://github.com/kwailamchan/hadoopeco)
-- [mooc](https://github.com/kwailamchan/mooc)
-- [programming-languages](https://github.com/kwailamchan/programming-languages)
+- [deep-learning-frameworks](https://github.com/kwailamchan/deep-learning-frameworks)
 - [self-driving-car](https://github.com/kwailamchan/self-driving-car.git)
+- [conferences](https://github.com/kwailamchan/conferences)
 
+Big Data
+
+- [hadoopecho](https://github.com/kwailamchan/hadoopeco)
+
+
+Hardware
+
+- [gpu](https://github.com/kwailamchan/gpu)
 
 Backup
 -----------------------

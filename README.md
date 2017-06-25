@@ -6,7 +6,6 @@ Projects
 
 - [muse](https://github.com/kwailamchan/muse)
 - [hangmanbot](https://github.com/kwailamchan/hangmanbot)
-- [self-driving-car](https://github.com/kwailamchan/self-driving-car.git)
 
 
 Tools
@@ -23,19 +22,15 @@ Tools
 Study
 -----------------------
 
-- [algos](https://github.com/kwailamchan/algos)
+- [algorithms](https://github.com/kwailamchan/algorithms)
 - [robotics](https://github.com/kwailamchan/robotics)
 - [neural-networks](https://github.com/kwailamchan/neural-networks)
 - [conferences](https://github.com/kwailamchan/conferences)
 - [hadoopecho](https://github.com/kwailamchan/hadoopeco)
 - [mooc](https://github.com/kwailamchan/mooc)
 - [programming-languages](https://github.com/kwailamchan/programming-languages)
+- [self-driving-car](https://github.com/kwailamchan/self-driving-car.git)
 
-
-Source Codes
------------------------
-
-- [pysrc](https://github.com/kwailamchan/pysrc)
 
 Backup
 -----------------------

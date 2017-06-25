@@ -58,9 +58,14 @@ Big Data
 - [hadoopecho](https://github.com/kwailamchan/hadoopeco)
 
 
+Maths
+
+- [mathlibs](https://github.com/kwailamchan/mathlibs)
+
 Hardware
 
 - [gpu](https://github.com/kwailamchan/gpu)
+- [Hardwares](https://github.com/kwailamchan/hardwares)
 
 Backup
 -----------------------

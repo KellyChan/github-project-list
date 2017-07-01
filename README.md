@@ -18,6 +18,7 @@ Tools
 Dev
 
 - [clog](https://github.com/kwailamchan/clog)
+- [libapis](https://github.com/kwailamchan/libapis)
 
 DevOps
 
@@ -57,6 +58,9 @@ Big Data
 
 - [hadoopecho](https://github.com/kwailamchan/hadoopeco)
 
+Web
+
+- [blockchain](https://github.com/kwailamchan/blockchain)
 
 Maths
 

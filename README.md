@@ -69,7 +69,7 @@ Maths
 Hardware
 
 - [gpu](https://github.com/kwailamchan/gpu)
-- [Hardwares](https://github.com/kwailamchan/hardwares)
+- [hardwares](https://github.com/kwailamchan/hardwares)
 
 Backup
 -----------------------

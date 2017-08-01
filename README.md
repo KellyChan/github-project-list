@@ -10,6 +10,7 @@ Projects
 - [cerebral](https://github.com/kwailamchan/cerebral.git)
 - [camera](https://github.com/kwailamchan/camera.git)
 - [atari](https://github.com/kwailamchan/atari)
+- [cl](https://github.com/kwailamchan/cl)
 
 
 Tools

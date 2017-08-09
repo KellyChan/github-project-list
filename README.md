@@ -11,6 +11,7 @@ Projects
 - [camera](https://github.com/kwailamchan/camera.git)
 - [atari](https://github.com/kwailamchan/atari)
 - [cl](https://github.com/kwailamchan/cl)
+- [blas-benchmarks](https://github.com/kwailamchan/blas-benchmarks)
 
 
 Tools
@@ -63,9 +64,6 @@ Web
 
 - [blockchain](https://github.com/kwailamchan/blockchain)
 
-Maths
-
-- [mathlibs](https://github.com/kwailamchan/mathlibs)
 
 Hardware
 

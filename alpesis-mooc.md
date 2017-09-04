@@ -11,4 +11,5 @@ Udacity
 ------------------------------------------------------------------------------
 
 - [udacity-ud032-data-wrangling-with-mongodb](https://github.com/alpesis-mooc/udacity-ud032-data-wrangling-with-mongodb)
+- [udacity-cs215-social-network-analysis](https://github.com/alpesis-mooc/udacity-cs215-social-network-analysis)
 - [udacity-carnd-self-driving-car](https://github.com/alpesis-mooc/udacity-carnd-self-driving-car)

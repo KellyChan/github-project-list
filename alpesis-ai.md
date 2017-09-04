@@ -35,6 +35,7 @@ Robots
 
 - [doris](https://github.com/alpesis-ai/doris)
 - [hangmanbot](https://github.com/alpesis-ai/hangmanbot)
+- [aldebaran-naoqi](https://github.com/alpesis-ai/aldebaran-naoqi)
 
 Backup
 

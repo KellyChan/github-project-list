@@ -1,6 +1,11 @@
 Alpesis MOOC
 ==============================================================================
 
+Books
+------------------------------------------------------------------------------
+
+- [book-natural-language-processing-with-python](https://github.com/alpesis-mooc/book-natural-language-processing-with-python)
+
 Udacity
 ------------------------------------------------------------------------------
 

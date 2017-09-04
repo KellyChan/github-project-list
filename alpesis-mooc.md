@@ -9,6 +9,10 @@ Machine Learning
 - [book-machine-learning-in-action](https://github.com/alpesis-mooc/book-machine-learning-in-action)
 - [book-natural-language-processing-with-python](https://github.com/alpesis-mooc/book-natural-language-processing-with-python)
 
+CUDA
+
+- [book-professional-cuda-c-programming](https://github.com/alpesis-mooc/book-professional-cuda-c-programming)
+
 Python
 
 - [book-python-testing-cookbook](https://github.com/alpesis-mooc/book-python-testing-cookbook)

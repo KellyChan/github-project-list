@@ -11,6 +11,8 @@ Books
 Udacity
 ------------------------------------------------------------------------------
 
+- [udacity-st101-intro-to-statistics](https://github.com/alpesis-mooc/udacity-st101-intro-to-statistics)
+
 - [udacity-ud032-data-wrangling-with-mongodb](https://github.com/alpesis-mooc/udacity-ud032-data-wrangling-with-mongodb)
 - [udacity-cs212-design-of-computer-programs](https://github.com/alpesis-mooc/udacity-cs212-design-of-computer-programs)
 - [udacity-cs215-social-network-analysis](https://github.com/alpesis-mooc/udacity-cs215-social-network-analysis)

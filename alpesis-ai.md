@@ -29,6 +29,7 @@ Machine Learning
 - [mnist](https://github.com/alpesis-ai/mnist)
 - [face-detector](https://github.com/alpesis-ai/face-detector)
 - [facepp-cli](https://github.com/alpesis-ai/facepp-cli)
+- [language-detector](https://github.com/alpesis-ai/language-detector)
 - [atari](https://github.com/alpesis-ai/atari)
 
 Robots

@@ -7,6 +7,9 @@ Group
 - [alpesis-ai](./alpesis-ai.md)
 - [alpesis-muse](./alpesis-muse.md)
 - [alpesis-dev](./alpesis-dev.md)
+- [alpesis-hpc](./alpesis-hpc.md)
+- [alpesis-web](./alpesis-web.md)
+- [alpesis-mooc](./alpesis-mooc.md)
 
 
 Personal

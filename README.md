@@ -16,4 +16,3 @@ K
 
 - [project-list](https://github.com/kwailamchan/project-list)
 - [programming-languages](https://github.com/kwailamchan/programming-languages)
-- [polonaise](https://github.com/kwailamchan/polonaise)

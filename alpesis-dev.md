@@ -11,6 +11,7 @@ Prelude Series
 Utilities Series
 ------------------------------------------------------------------------------
 
+- [utilties-c](https://github.com/alpesis-dev/utilities-c.git)
 - [utilities-makefile](https://github.com/alpesis-dev/utilities-makefile)
 - [utilities-cmake](https://github.com/alpesis-dev/utilities-cmake)
 

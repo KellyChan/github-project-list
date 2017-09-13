@@ -9,6 +9,10 @@ Machine Learning
 - [book-machine-learning-in-action](https://github.com/alpesis-mooc/book-machine-learning-in-action)
 - [book-natural-language-processing-with-python](https://github.com/alpesis-mooc/book-natural-language-processing-with-python)
 
+HPC
+
+- [book-using-openmp-portable-shared-memory-parallel-programming](https://github.com/alpesis-mooc/book-using-openmp-portable-shared-memory-parallel-programming.git)
+
 CUDA
 
 - [book-professional-cuda-c-programming](https://github.com/alpesis-mooc/book-professional-cuda-c-programming)

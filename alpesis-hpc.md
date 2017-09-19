@@ -17,5 +17,4 @@ Computing Languages
 BLAS
 ------------------------------------------------------------------------------
 
-
 - [gemm](https://github.com/alpesis-hpc/gemm.git)

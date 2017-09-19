@@ -35,6 +35,11 @@ SAS
 
 - [book-learning-sas-by-example](https://github.com/alpesis-mooc/book-learning-sas-by-example)
 
+Intel
+------------------------------------------------------------------------------
+
+- [intel-introduction-to-openmp](https://github.com/alpesis-mooc/intel-introduction-to-openmp.git)
+
 Udacity
 ------------------------------------------------------------------------------
 

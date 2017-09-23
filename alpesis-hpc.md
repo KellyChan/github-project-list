@@ -18,3 +18,4 @@ BLAS
 ------------------------------------------------------------------------------
 
 - [gemm](https://github.com/alpesis-hpc/gemm.git)
+- [gemm-openblas](https://github.com/alpesis-hpc/gemm-openblas.git)

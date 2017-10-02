@@ -17,6 +17,10 @@ CUDA
 
 - [book-professional-cuda-c-programming](https://github.com/alpesis-mooc/book-professional-cuda-c-programming)
 
+OS
+
+- [book-how-to-make-an-opearting-system](https://github.com/alpesis-mooc/book-how-to-make-an-operating-system.git)
+
 Python
 
 - [book-python-testing-cookbook](https://github.com/alpesis-mooc/book-python-testing-cookbook)

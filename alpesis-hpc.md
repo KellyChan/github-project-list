@@ -20,6 +20,12 @@ BLAS
 - [gemm](https://github.com/alpesis-hpc/gemm.git)
 - [gemm-openblas](https://github.com/alpesis-hpc/gemm-openblas.git)
 
+
+Sort
+------------------------------------------------------------------------------
+
+- [sort-cuda](https://github.com/alpesis-hpc/sort-cuda.git)
+
 Data Structure
 ------------------------------------------------------------------------------
 

@@ -26,18 +26,19 @@ Framework-based
 
 Machine Learning
 
-- [mnist](https://github.com/alpesis-ai/mnist)
-- [face-detector](https://github.com/alpesis-ai/face-detector)
-- [facepp-cli](https://github.com/alpesis-ai/facepp-cli)
-- [language-detector](https://github.com/alpesis-ai/language-detector)
-- [atari](https://github.com/alpesis-ai/atari)
+- [-][mnist](https://github.com/alpesis-ai/mnist)
+- [+][face-detector](https://github.com/alpesis-ai/face-detector)
+- [*][facepp-cli](https://github.com/alpesis-ai/facepp-cli)
+- [*][language-detector](https://github.com/alpesis-ai/language-detector)
+- [*][atari](https://github.com/alpesis-ai/atari)
+- [*][markovagent](https://github.com/alpesis-ai/markovagent)
 
 Robots
 
-- [doris](https://github.com/alpesis-ai/doris)
-- [hangmanbot](https://github.com/alpesis-ai/hangmanbot)
-- [aldebaran-naoqi](https://github.com/alpesis-ai/aldebaran-naoqi)
+- [-][doris](https://github.com/alpesis-ai/doris)
+- [*][hangmanbot](https://github.com/alpesis-ai/hangmanbot)
+- [*][aldebaran-naoqi](https://github.com/alpesis-ai/aldebaran-naoqi)
 
 Backup
 
-- [kaggle](https://github.com/alpesis-ai/kaggle)
+- [*][kaggle](https://github.com/alpesis-ai/kaggle)

@@ -47,13 +47,19 @@ Intel
 Udacity
 ------------------------------------------------------------------------------
 
+stxx
+
 - [udacity-st101-intro-to-statistics](https://github.com/alpesis-mooc/udacity-st101-intro-to-statistics)
+
+csxx
 
 - [udacity-cs212-design-of-computer-programs](https://github.com/alpesis-mooc/udacity-cs212-design-of-computer-programs)
 - [udacity-cs215-social-network-analysis](https://github.com/alpesis-mooc/udacity-cs215-social-network-analysis)
 - [udacity-cs262-programming-languages](https://github.com/alpesis-mooc/udacity-cs262-programming-languages)
 - [udacity-cs258-software-testing](https://github.com/alpesis-mooc/udacity-cs258-software-testing)
 - [udacity-cs259-software-debugging](https://github.com/alpesis-mooc/udacity-cs259-software-debugging)
+
+udxx
 
 - [udacity-ud032-data-wrangling-with-mongodb](https://github.com/alpesis-mooc/udacity-ud032-data-wrangling-with-mongodb)
 - [udacity-ud585-intro-to-ios-app-development-with-swift](https://github.com/alpesis-mooc/udacity-ud585-intro-to-ios-app-development-with-swift)

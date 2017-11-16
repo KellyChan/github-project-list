@@ -16,3 +16,10 @@ K
 
 - [project-list](https://github.com/kwailamchan/project-list)
 - [programming-languages](https://github.com/kwailamchan/programming-languages)
+
+Project remarks
+
+
+- [-]: under development
+- [+]: almost done
+- [*]: ready

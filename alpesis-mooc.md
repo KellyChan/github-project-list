@@ -61,6 +61,11 @@ Udacity
 - [udacity-carnd-self-driving-car](https://github.com/alpesis-mooc/udacity-carnd-self-driving-car)
 
 
+CMU
+------------------------------------------------------------------------------
+
+- [cmu-18-645-how-to-write-fast-code](https://github.com/alpesis-mooc/cmu-18-645-how-to-write-fast-code)
+
 Washington
 ------------------------------------------------------------------------------
 

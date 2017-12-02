@@ -5,4 +5,4 @@ Alpesis Muse
 - [+] [fractal](https://github.com/alpesis-muse/fractal)
 - [-] [panorama](https://github.com/alpesis-muse/panorama)
 - [-] [cvmixer](https://github.com/alpesis-muse/cvmixer)
-- [gaussianblur](https://github.com/alpesis-muse/gaussianblur)
+- [+] [gaussianblur](https://github.com/alpesis-muse/gaussianblur)

@@ -67,6 +67,11 @@ udxx
 - [udacity-carnd-self-driving-car](https://github.com/alpesis-mooc/udacity-carnd-self-driving-car)
 
 
+MIT
+------------------------------------------------------------------------------
+
+- [mit-6.189-multicore-programming-primer](https://github.com/alpesis-mooc/mit-6.189-multicore-programming-primer.git)
+
 CMU
 ------------------------------------------------------------------------------
 

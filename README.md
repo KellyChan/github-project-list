@@ -16,6 +16,8 @@ K
 
 - [project-list](https://github.com/kwailamchan/project-list)
 - [programming-languages](https://github.com/kwailamchan/programming-languages)
+- [ds-c](https://github.com/kwailamchan/ds-c)
+- [algos-c](https://github.com/kwailamchan/algos-c)
 
 Project remarks
 

@@ -26,3 +26,8 @@ Sort
 
 - [-] [sort-cuda](https://github.com/alpesis-hpc/sort-cuda.git)
 
+
+Quantization
+------------------------------------------------------------------------------
+
+- [-] [quantization](https://github.com/alpesis-hpc/quantization.git)

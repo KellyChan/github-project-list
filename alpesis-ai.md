@@ -7,6 +7,9 @@ Frameworks
 - [cerebral](https://github.com/alpesis-ai/cerebral)
 
 
+- [model-validator-caffe-cpp](https://github.com/alpesis-ai/model-validator-caffe-cpp)
+
+
 Models
 ------------------------------------------------------------------------------
 

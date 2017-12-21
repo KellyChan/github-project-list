@@ -5,7 +5,6 @@ Benchmark Series
 ------------------------------------------------------------------------------
 
 - [-] [benchmark-blas](https://github.com/alpesis-hpc/benchmark-blas)
-- [-] [benchmark-gemm](https://github.com/alpesis-hpc/benchmark-gemm)
 - [-] [benchmark-sort](https://github.com/alpesis-hpc/benchmark-sort)
 
 Computing Languages
@@ -19,6 +18,7 @@ BLAS
 
 - [*] [gemm](https://github.com/alpesis-hpc/gemm.git)
 - [*] [gemm-openblas](https://github.com/alpesis-hpc/gemm-openblas.git)
+- [-] [gemm-multiprecisions](https://github.com/alpesis-hpc/gemm-multiprecisions)
 
 
 Sort

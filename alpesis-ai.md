@@ -14,7 +14,7 @@ Models
 ------------------------------------------------------------------------------
 
 - [-] [tensorflow-models](https://github.com/alpesis-ai/tensorflow-models)
-- [mxnet-models](https://github.com/alpesis-ai/mxnet-models)
+- [-] [tensorflow-quantization](https://github.com/alpesis-ai/tensorflow-quantization)
 - [caffe-models](https://github.com/alpesis-ai/caffe-models)
 - [theano-models](https://github.com/alpesis-ai/theano-models)
 - [torch-models](https://github.com/alpesis-ai/torch-models)

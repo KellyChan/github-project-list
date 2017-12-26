@@ -8,7 +8,7 @@ Frameworks
 - [naivecnn](https://github.com/alpesis-ai/naivecnn)
 
 - [model-validator-caffe-cpp](https://github.com/alpesis-ai/model-validator-caffe-cpp)
-
+- [model-validator-caffe-py](https://github.com/alpesis-ai/model-validator-caffe-py)
 
 
 Models

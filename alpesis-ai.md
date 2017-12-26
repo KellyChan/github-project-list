@@ -5,9 +5,10 @@ Frameworks
 ------------------------------------------------------------------------------
 
 - [cerebral](https://github.com/alpesis-ai/cerebral)
-
+- [naivecnn](https://github.com/alpesis-ai/naivecnn)
 
 - [model-validator-caffe-cpp](https://github.com/alpesis-ai/model-validator-caffe-cpp)
+
 
 
 Models

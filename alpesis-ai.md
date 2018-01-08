@@ -39,7 +39,8 @@ Machine Learning
 
 Robots
 
-- [-] [bot-agent-ios](https://github.com/alpesis-ai/bot-agent-ios)
+- [+] [bot-agent-ios](https://github.com/alpesis-ai/bot-agent-ios)
+- [+] [wechat-jumpbot](https://github.com/alpesis-ai/wechat-jumpbot)
 - [-] [doris](https://github.com/alpesis-ai/doris)
 - [*] [hangmanbot](https://github.com/alpesis-ai/hangmanbot)
 - [*] [aldebaran-naoqi](https://github.com/alpesis-ai/aldebaran-naoqi)

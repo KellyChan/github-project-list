@@ -12,6 +12,11 @@ CSS
 - [*] [font-factory](https://github.com/alpesis-web/font-factory)
 
 
+Django
+------------------------------------------------------------------------------
+
+- [db-dashboard](https://github.com/alpesis-web/db-dashboard)
+
 Jekyll
 ------------------------------------------------------------------------------
 

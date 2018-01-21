@@ -15,7 +15,7 @@ CSS
 Django
 ------------------------------------------------------------------------------
 
-- [db-dashboard](https://github.com/alpesis-web/db-dashboard)
+- [-] [luckydog](https://github.com/alpesis-web/luckydog)
 
 Jekyll
 ------------------------------------------------------------------------------

@@ -12,6 +12,11 @@ CSS
 - [*] [font-factory](https://github.com/alpesis-web/font-factory)
 
 
+Django
+------------------------------------------------------------------------------
+
+- [-] [luckydog](https://github.com/alpesis-web/luckydog)
+
 Jekyll
 ------------------------------------------------------------------------------
 

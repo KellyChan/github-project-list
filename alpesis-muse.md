@@ -16,4 +16,4 @@ OpenCV
 
 NLP
 
-- [-] [calliope](https://github.com/alpesis-muse/calliope)
+- [+] [calliope](https://github.com/alpesis-muse/calliope)

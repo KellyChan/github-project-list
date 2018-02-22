@@ -7,6 +7,7 @@ Deployment
 - [deploy] [alpesis-k](https://github.com/alpesis/alpesis-k)
 - [deploy] [alpesis-calendar](https://github.com/alpesis/alpesis-calendar)
 - [deploy] [alpesis-aerorobotics](https://github.com/alpesis/alpesis-aerorobotics)
+- [deploy] [alpesis-paperreview](https://github.com/alpesis/alpesis-paperreview)
 
 Archived
 

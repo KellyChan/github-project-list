@@ -15,11 +15,12 @@ Utilities Series
 - [-] [utilities-makefile](https://github.com/alpesis-dev/utilities-makefile)
 - [-] [utilities-cmake](https://github.com/alpesis-dev/utilities-cmake)
 
-Python Projects
+Docs Platform
 ------------------------------------------------------------------------------
 
-- [*] [sphinx-template](https://github.com/alpesis-dev/sphinx-template)
-- [*] [sphinx-template-rtd](https://github.com/alpesis-dev/sphinx-template-rtd)
+- [*][python] [sphinx-template](https://github.com/alpesis-dev/sphinx-template)
+- [*][python] [sphinx-template-rtd](https://github.com/alpesis-dev/sphinx-template-rtd)
+- [-][react] [docusaurus-template](https://github.com/alpesis-dev/docusaurus-template.git)
 
 Tools
 ------------------------------------------------------------------------------

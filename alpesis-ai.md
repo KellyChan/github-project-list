@@ -24,6 +24,7 @@ Models
 - [-] [tensorflow-lucid-interpreter](https://github.com/alpesis-ai/tensorflow-lucid-interpreter)
 - [theano-models](https://github.com/alpesis-ai/theano-models)
 - [torch-models](https://github.com/alpesis-ai/torch-models)
+- [-] [nnviz](https://github.com/alpesis-ai/nnviz)
 
 
 Applications

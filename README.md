@@ -5,6 +5,7 @@ Group
 
 - [alpesis](./alpesis.md)
 - [alpesis-ai](./alpesis-ai.md)
+- [alpesis-robotics](./alpesis-robotics.md)
 - [alpesis-muse](./alpesis-muse.md)
 - [alpesis-dev](./alpesis-dev.md)
 - [alpesis-hpc](./alpesis-hpc.md)

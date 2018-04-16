@@ -10,6 +10,7 @@ Deployment
 - [deploy] [alpesis-paperreview](https://github.com/alpesis/alpesis-paperreview)
 - [deploy] [alpesis-engineering](https://github.com/alpesis/alpesis-engineering.git)
 - [deploy] [alpesis-art](https://github.com/alpesis/alpesis-art)
+- [deploy] [alpesis-moodboard](https://github.com/alpesis/alpesis-moodboard)
 
 Archived
 

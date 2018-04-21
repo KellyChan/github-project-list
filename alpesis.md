@@ -13,6 +13,7 @@ Deployment
 - [deploy] [alpesis-fortfolio](https://github.com/alpesis/alpesis-fortfolio)
 - [deploy] [alpesis-collections](https://github.com/alpesis/alpesis-collections)
 - [deploy] [alpesis-projects](https://github.com/alpesis/alpesis-projects)
+- [deploy] [alpesis-blog](https://github.com/alpesis/alpesis-blog)
 
 Archived
 

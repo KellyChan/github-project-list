@@ -14,6 +14,7 @@ Deployment
 - [deploy] [alpesis-collections](https://github.com/alpesis/alpesis-collections)
 - [deploy] [alpesis-projects](https://github.com/alpesis/alpesis-projects)
 - [deploy] [alpesis-blog](https://github.com/alpesis/alpesis-blog)
+- [deploy] [alpesis-muse](https://github.com/alpesis/alpesis-muse.git)
 
 Archived
 

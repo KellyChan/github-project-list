@@ -82,3 +82,8 @@ Washington
 ------------------------------------------------------------------------------
 
 - [washington-cse351-the-hardware-software-interface](https://github.com/alpesis-mooc/washington-cse351-the-hardware-software-interface.git)
+
+ETH Zurich
+------------------------------------------------------------------------------
+
+- [ethzurich-programming-for-robotics-ros](https://github.com/alpesis-mooc/ethzurich-programming-for-robotics-ros)

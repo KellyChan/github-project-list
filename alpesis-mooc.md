@@ -9,6 +9,10 @@ Machine Learning
 - [book-machine-learning-in-action](https://github.com/alpesis-mooc/book-machine-learning-in-action)
 - [book-natural-language-processing-with-python](https://github.com/alpesis-mooc/book-natural-language-processing-with-python)
 
+Robotics
+
+- [book-learning-ros-for-robotics-programming](https://github.com/alpesis-mooc/book-learning-ros-for-robotics-programming)
+
 HPC
 
 - [book-using-openmp-portable-shared-memory-parallel-programming](https://github.com/alpesis-mooc/book-using-openmp-portable-shared-memory-parallel-programming.git)

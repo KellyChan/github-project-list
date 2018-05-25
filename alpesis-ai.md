@@ -41,7 +41,7 @@ Machine Learning
 
 Robots
 
-- [+] [snake-game](https://github.com/alpesis-ai/snake-game)
+- [-] [snake-game](https://github.com/alpesis-ai/snake-game)
 - [+] [bot-agent-ios](https://github.com/alpesis-ai/bot-agent-ios)
 - [+] [wechat-jumpbot](https://github.com/alpesis-ai/wechat-jumpbot)
 - [-] [doris](https://github.com/alpesis-ai/doris)

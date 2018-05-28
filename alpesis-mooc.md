@@ -91,3 +91,8 @@ ETH Zurich
 ------------------------------------------------------------------------------
 
 - [ethzurich-programming-for-robotics-ros](https://github.com/alpesis-mooc/ethzurich-programming-for-robotics-ros)
+
+Others
+------------------------------------------------------------------------------
+
+- [claus-brenner-slam](https://github.com/alpesis-mooc/claus-brenner-slam)

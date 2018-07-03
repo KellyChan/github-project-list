@@ -62,6 +62,7 @@ csxx
 - [udacity-cs262-programming-languages](https://github.com/alpesis-mooc/udacity-cs262-programming-languages)
 - [udacity-cs258-software-testing](https://github.com/alpesis-mooc/udacity-cs258-software-testing)
 - [udacity-cs259-software-debugging](https://github.com/alpesis-mooc/udacity-cs259-software-debugging)
+- [udacity-cs373-artificial-intelligence-for-robotics](https://github.com/alpesis-mooc/udacity-cs373-artificial-intelligence-for-robotics.git)
 
 udxx
 

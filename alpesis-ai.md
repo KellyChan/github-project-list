@@ -28,6 +28,7 @@ Applications
 
 Framework-based
 
+- [-] [mural](https://github.com/alpesis-ai/mural.git)
 - [-] [tensorflow-applications](https://github.com/alpesis-ai/tensorflow-applications)
 
 Machine Learning

@@ -40,6 +40,10 @@ Machine Learning
 - [*] [atari](https://github.com/alpesis-ai/atari)
 - [*] [markovagent](https://github.com/alpesis-ai/markovagent)
 
+NLP
+
+- [] [word2vec](https://github.com/alpesis-ai/word2vec.git)
+
 Robots
 
 - [-] [snake-game](https://github.com/alpesis-ai/snake-game)

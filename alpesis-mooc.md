@@ -73,6 +73,10 @@ udxx
 - [udacity-nd188-pytorch-facebook-challenge](https://github.com/alpesis-mooc/udacity-nd188-pytorch-facebook-challenge.git)
 - [udacity-carnd-self-driving-car](https://github.com/alpesis-mooc/udacity-carnd-self-driving-car)
 
+Stanford
+------------------------------------------------------------------------------
+
+- [stanford-cs224n-natural-language-processing-with-deep-learning](https://github.com/alpesis-mooc/stanford-cs224n-natural-language-processing-with-deep-learning.git)
 
 MIT
 ------------------------------------------------------------------------------

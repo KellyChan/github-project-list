@@ -44,6 +44,10 @@ NLP
 
 - [] [word2vec](https://github.com/alpesis-ai/word2vec.git)
 
+Computer Graphics
+
+- [] [perlin-noise](https://github.com/alpesis-ai/perlin-noise)
+
 Robots
 
 - [-] [snake-game](https://github.com/alpesis-ai/snake-game)

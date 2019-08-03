@@ -66,6 +66,7 @@ csxx
 
 udxx
 
+- [udacity-ud012-aws-deepracer-challenge](https://github.com/alpesis-mooc/udacity-ud012-aws-deepracer-challenge.git)
 - [udacity-ud032-data-wrangling-with-mongodb](https://github.com/alpesis-mooc/udacity-ud032-data-wrangling-with-mongodb)
 - [udacity-ud585-intro-to-ios-app-development-with-swift](https://github.com/alpesis-mooc/udacity-ud585-intro-to-ios-app-development-with-swift)
 - [udacity-ud787-flying-car](https://github.com/alpesis-mooc/udacity-ud787-flying-car)

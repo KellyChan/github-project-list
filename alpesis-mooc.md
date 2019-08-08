@@ -21,6 +21,10 @@ CUDA
 
 - [book-professional-cuda-c-programming](https://github.com/alpesis-mooc/book-professional-cuda-c-programming)
 
+Graphics
+
+- [book-learning-opengl](https://github.com/alpesis-mooc/book-learning-opengl)
+
 OS
 
 - [book-how-to-make-an-opearting-system](https://github.com/alpesis-mooc/book-how-to-make-an-operating-system.git)

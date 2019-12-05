@@ -11,8 +11,6 @@ Frameworks
 - [-] [model-validator-caffe-cpp](https://github.com/alpesis-ai/model-validator-caffe-cpp)
 - [-] [deeplearning-model-validator](https://github.com/alpesis-ai/deeplearning-model-validator)
 
-- [] [aero](https://github.com/alpesis-ai/aero)
-
 
 Models
 ------------------------------------------------------------------------------

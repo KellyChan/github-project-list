@@ -33,6 +33,7 @@ Framework-based
 
 Machine Learning
 
+- [-] [auto-inference](https://github.com/alpesis-ai/auto-inference)
 - [-] [mnist](https://github.com/alpesis-ai/mnist)
 - [+] [face-detector](https://github.com/alpesis-ai/face-detector)
 - [*] [facepp-cli](https://github.com/alpesis-ai/facepp-cli)
@@ -60,5 +61,4 @@ Robots
 Kaggle
 ------------------------------------------------------------------------------
 
-- [] [kaggle-young-people-survey](https://github.com/alpesis-ai/kaggle-young-people-survey)
 - [*] [kaggle](https://github.com/alpesis-ai/kaggle)

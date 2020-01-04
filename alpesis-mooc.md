@@ -92,6 +92,7 @@ MIT
 CMU
 ------------------------------------------------------------------------------
 
+- [cmu-15-462-computer-graphics](https://github.com/alpesis-mooc/cmu-15-462-computer-graphics)
 - [cmu-18-645-how-to-write-fast-code](https://github.com/alpesis-mooc/cmu-18-645-how-to-write-fast-code)
 
 Washington

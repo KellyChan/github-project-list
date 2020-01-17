@@ -29,4 +29,4 @@ Project remarks
 
 - [-]: under development
 - [+]: almost done
-- [*]: ready
+- [\*]: ready

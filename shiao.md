@@ -17,4 +17,4 @@ Programming
 
 ## Computational Sciences
 
-- [Computational Mathematics](https://github.com/Shiao-Computing-Volumes/computational-mathematics.git)
+- [Mathematics](https://github.com/Shiao-Computing-Volumes/mathematics.git)

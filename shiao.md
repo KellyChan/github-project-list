@@ -15,6 +15,3 @@ Programming
 
 - [Project Based Learning in Python](https://github.com/Shiao-Computing-Volumes/project-based-learning-in-python)
 
-## Computational Sciences
-
-- [Mathematics](https://github.com/Shiao-Computing-Volumes/mathematics.git)

@@ -2,14 +2,10 @@
 
 ## Computer Science
 
-Computer Graphics/Vision
+Computer Graphics
 
-- [Computer Graphics from Scratch](https://github.com/Shiao-Computing-Volumes/computer-graphics-from-scratch)
-- [Computer Vision from Scratch](https://github.com/Shiao-Computing-Volumes/computer-vision-from-scratch.git)
+- [Taichi Tutorials](https://github.com/Shiao-Computing-Volumes/taichi-tutorials)
 
-Data Science
-
-- [Data Science from Scratch](https://github.com/Shiao-Computing-Volumes/data-science-from-scratch)
 
 Programming
 
